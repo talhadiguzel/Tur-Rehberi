@@ -1,0 +1,2675 @@
+[
+    {
+        "name": "Adana",
+        "info": "Adana, Türkiye'nin Akdeniz Bölgesi'nde yer alan büyükşehirlerinden biridir. Tarım ve sanayi açısından önemli bir konuma sahiptir.",
+        "image-1": "/images/adana-1.jpg",
+        "image-2": "/images/adana-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Sabancı Merkez Camii",
+                "info": "Adana'nın en büyük camilerinden biridir. Modern mimarisiyle dikkat çeker ve kentin sembollerinden biri haline gelmiştir.",
+                "image": "/images/sabanci-merkez-camii.jpg"
+            },
+            {
+                "name": "Taşköprü",
+                "info": "Taşköprü, Seyhan Nehri üzerinde yer alan tarihi bir köprüdür. Osmanlı dönemine ait ve Adana'nın simgelerinden biridir.",
+                "image": "/images/taskopru.jpg"
+            },
+            {
+                "name": "Adana Arkeoloji Müzesi",
+                "info": "Adana Arkeoloji Müzesi, bölgedeki arkeolojik eserlerin sergilendiği önemli bir müzedir. Çukurova'nın tarihini yansıtan birçok esere ev sahipliği yapar.",
+                "image": "/images/adana-arkeoloji-muzesi.jpg"
+            },
+            {
+                "name": "Varda Köprüsü",
+                "info": "Varda Köprüsü, Roma dönemine ait tarihi bir köprüdür. Seyhan Nehri üzerinde bulunur ve Adana'nın tarihine tanıklık etmiştir.",
+                "image": "/images/varda-koprusu.jpg"
+            },
+            {
+                "name": "Adana Atatürk Evi",
+                "info": "Atatürk'ün Adana'da kaldığı ev olarak bilinir. Tarihi bir yapıdır ve ziyaretçilere Atatürk dönemine ait birçok eseri görmeyi sağlar.",
+                "image": "/images/adana-ataturk-evi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Adıyaman",
+        "info": "Adıyaman, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde bulunan bir şehirdir. Kültürel ve tarihi zenginlikleriyle dikkat çeker.",
+        "image-1": "/images/adiyaman-1.jpg",
+        "image-2": "/images/adiyaman-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Nemrut Dağı",
+                "info": "Nemrut Dağı, UNESCO Dünya Mirası Listesi'nde yer alan tarihi bir bölgedir. Kommagene Krallığı'ndan kalma heykeller ve anıtlar bu bölgede bulunur.",
+                "image": "/images/nemrut-dagi.jpg"
+            },
+            {
+                "name": "Adıyaman Müzesi",
+                "info": "Adıyaman Müzesi, bölgedeki tarihi eserlerin sergilendiği bir müzedir. Kommagene Krallığı'na ait eserlerin yanı sıra diğer tarihi eserler de burada sergilenir.",
+                "image": "/images/adiyaman-muzesi.jpg"
+            },
+            {
+                "name": "Cendere Köprüsü",
+                "info": "Cendere Köprüsü, Kommagene Krallığı döneminden kalan tarihi bir köprüdür. Kahta çayı üzerinde yer alır ve önemli bir tarihi eserdir.",
+                "image": "/images/cendere-koprusu.jpg"
+            },
+            {
+                "name": "Arsemia Antik Kenti",
+                "info": "Arsemia Antik Kenti, Kommagene Krallığı dönemine ait bir antik kenttir. Nemrut Dağı'nın eteklerinde yer alır ve tarihi kalıntılarla doludur.",
+                "image": "/images/arsemia-antik-kenti.jpg"
+            },
+            {
+                "name": "Perre Antik Kenti",
+                "info": "Perre Antik Kenti, Adıyaman'ın Kahta ilçesinde yer alan bir antik kenttir. Helenistik ve Roma dönemlerine ait kalıntıları barındırır.",
+                "image": "/images/perre-antik-kenti.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Afyonkarahisar",
+        "info": "Afyonkarahisar, Türkiye'nin İç Anadolu Bölgesi'nde bulunan bir şehirdir. Termal kaynakları ve tarihi zenginlikleriyle bilinir.",
+        "image-1": "/images/afyonkarahisar-1.jpg",
+        "image-2": "/images/afyonkarahisar-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Afyonkarahisar Kalesi",
+                "info": "Afyonkarahisar Kalesi, şehrin simgelerinden biridir. Tarihi kale, şehri yüksek bir noktadan gözetler.",
+                "image": "/images/afyonkarahisar-kalesi.jpg"
+            },
+            {
+                "name": "Afyonkarahisar Müzesi",
+                "info": "Afyonkarahisar Müzesi, bölgedeki arkeolojik eserlerin sergilendiği bir müzedir. Hitit, Frig, Roma ve Bizans dönemlerine ait eserler bulunur.",
+                "image": "/images/afyonkarahisar-muzesi.jpg"
+            },
+            {
+                "name": "Zafer Müzesi",
+                "info": "Zafer Müzesi, Türkiye Cumhuriyeti'nin kuruluşuna ilişkin belgelerin ve eserlerin sergilendiği bir müzedir. Kurtuluş Savaşı'na dair önemli bir tarihî mirası barındırır.",
+                "image": "/images/zafer-muzesi.jpg"
+            },
+            {
+                "name": "Afyon Ulu Camii",
+                "info": "Afyon Ulu Camii, Osmanlı dönemine ait tarihi bir camidir. Şehir merkezinde bulunur ve mimarisiyle dikkat çeker.",
+                "image": "/images/afyon-ulu-camii.jpg"
+            },
+            {
+                "name": "Sultan Alaaddin Camii",
+                "info": "Sultan Alaaddin Camii, Selçuklu dönemine ait önemli bir camidir. Şehrin tarihi dokusunu yansıtır.",
+                "image": "/images/sultan-alaaddin-camii.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Ağrı",
+        "info": "Ağrı, Türkiye'nin Doğu Anadolu Bölgesi'nde bulunan bir şehirdir. Ülkenin en yüksek dağı olan Ağrı Dağı'na ev sahipliği yapar.",
+        "image-1": "/images/agri-1.jpg",
+        "image-2": "/images/agri-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Ağrı Dağı",
+                "info": "Ağrı Dağı, Türkiye'nin en yüksek dağıdır ve kutsal bir yer olarak kabul edilir. Dağcılık ve doğa turizmi açısından önemlidir.",
+                "image": "/images/agri-dagi.jpg"
+            },
+            {
+                "name": "İshak Paşa Sarayı",
+                "info": "İshak Paşa Sarayı, Osmanlı dönemine ait tarihi bir saraydır. Mimari açıdan dikkat çeker ve ziyaretçilerin ilgisini çeker.",
+                "image": "/images/ishak-pasa-sarayi.jpg"
+            },
+            {
+                "name": "Doğubayazıt Kalesi",
+                "info": "Doğubayazıt Kalesi, tarihi bir kale kompleksi olup İran sınırında bulunur. Urartu, Med, Pers, Bizans ve Osmanlı dönemlerine ait kalıntıları barındırır.",
+                "image": "/images/dogubayazit-kalesi.jpg"
+            },
+            {
+                "name": "Noah's Ark National Park",
+                "info": "Noah's Ark National Park, Ağrı Dağı'nın eteklerinde yer alan bir milli parktır. Geleneksel inançlara göre Nuh'un Gemisi'nin kalıntılarının bulunduğu düşünülür.",
+                "image": "/images/noahs-ark-national-park.jpg"
+            },
+            {
+                "name": "Ağrı Dağı Milli Parkı",
+                "info": "Ağrı Dağı Milli Parkı, dağcılık ve doğa turizmi için popüler bir destinasyondur. Yaban hayatı ve doğal güzelliklerle ünlüdür.",
+                "image": "/images/agri-dagi-milli-parki.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Aksaray",
+        "info": "Aksaray, Türkiye'nin İç Anadolu Bölgesi'nde bulunan bir şehirdir...",
+        "image-1": "/images/aksaray-1.jpg",
+        "image-2": "/images/aksaray-2.jpg",
+        "gorulecek":[
+            {
+                "name": "Amasya Kalesi",
+                "info": "Amasya Kalesi, şehrin tarihine tanıklık eden önemli bir yapıdır. Kale, Perslerden Bizanslılara, Danişmentlilerden Selçuklulara kadar birçok medeniyetin izlerini taşır.",
+                "image": "/images/amasya-kalesi.jpg"
+            },
+            {
+                "name": "Yeşilırmak Kıyısı",
+                "info": "Yeşilırmak, Amasya'nın önemli doğal güzelliklerinden biridir. Nehir kıyısında yürüyüş yapmak, şehrin güzelliklerini keşfetmek için idealdir.",
+                "image": "/images/yesilirmak-kiyisi.jpg"
+            },
+            {
+                "name": "Amasya Evleri",
+                "info": "Amasya, tarihi konakları ve evleriyle ünlüdür. Osmanlı dönemine ait bu tarihi evler, şehre karakteristik bir hava kazandırır.",
+                "image": "/images/amasya-evleri.jpg"
+            },
+            {
+                "name": "Hazeranlar Konağı",
+                "info": "Hazeranlar Konağı, Amasya'nın önemli tarihi yapılarından biridir. Osmanlı dönemine ait olan konak, müze olarak ziyaret edilebilir.",
+                "image": "/images/hazeranlar-konagi.jpg"
+            },
+            {
+                "name": "Ferhat ile Şirin Mağarası",
+                "info": "Ferhat ile Şirin Mağarası, efsanevi aşk hikayesinin geçtiği bir mağaradır. Mağara, ziyaretçilere doğal güzellikler sunar.",
+                "image": "/images/ferhat-ile-sirin-magarasi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Amasya",
+        "info": "Amasya, Türkiye'nin Karadeniz Bölgesi'nde yer alan tarihi ve kültürel zenginlikleriyle ön plana çıkan bir şehirdir.",
+        "image-1": "/images/amasya-1.jpg",
+        "image-2": "/images/amasya-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Amasya Kalesi",
+                "info": "Amasya Kalesi, şehrin tarihine tanıklık eden önemli bir yapıdır. Kale, Perslerden Bizanslılara, Danişmentlilerden Selçuklulara kadar birçok medeniyetin izlerini taşır.",
+                "image": "/images/amasya-kalesi.jpg"
+            },
+            {
+                "name": "Yeşilırmak Kıyısı",
+                "info": "Yeşilırmak, Amasya'nın önemli doğal güzelliklerinden biridir. Nehir kıyısında yürüyüş yapmak, şehrin güzelliklerini keşfetmek için idealdir.",
+                "image": "/images/yesilirmak-kiyisi.jpg"
+            },
+            {
+                "name": "Amasya Evleri",
+                "info": "Amasya, tarihi konakları ve evleriyle ünlüdür. Osmanlı dönemine ait bu tarihi evler, şehre karakteristik bir hava kazandırır.",
+                "image": "/images/amasya-evleri.jpg"
+            },
+            {
+                "name": "Hazeranlar Konağı",
+                "info": "Hazeranlar Konağı, Amasya'nın önemli tarihi yapılarından biridir. Osmanlı dönemine ait olan konak, müze olarak ziyaret edilebilir.",
+                "image": "/images/hazeranlar-konagi.jpg"
+            },
+            {
+                "name": "Ferhat ile Şirin Mağarası",
+                "info": "Ferhat ile Şirin Mağarası, efsanevi aşk hikayesinin geçtiği bir mağaradır. Mağara, ziyaretçilere doğal güzellikler sunar.",
+                "image": "/images/ferhat-ile-sirin-magarasi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Ankara",
+        "info": "Ankara, Türkiye'nin başkenti ve en kalabalık ikinci şehridir. Tarih boyunca pek çok medeniyete ev sahipliği yapmıştır.",
+        "image-1": "/images/ankara-1.jpg",
+        "image-2": "/images/ankara-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Anıtkabir",
+                "info": "Anıtkabir, Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün anıt mezarının bulunduğu alan ve müzedir. Ülkenin en önemli simgelerinden biridir.",
+                "image": "/images/anitkabir.jpg"
+            },
+            {
+                "name": "Atatürk Orman Çiftliği",
+                "info": "Atatürk Orman Çiftliği, Ankara'nın en büyük parkıdır. Piknik alanları, yürüyüş yolları ve çeşitli aktivitelerle ziyaretçilerini ağırlar.",
+                "image": "/images/ataturk-orman-ciftligi.jpg"
+            },
+            {
+                "name": "Kocatepe Camii",
+                "info": "Kocatepe Camii, Ankara'nın en büyük camilerinden biridir. Modern mimarisiyle dikkat çeker ve şehrin sembollerinden biridir.",
+                "image": "/images/kocatepe-camii.jpg"
+            },
+            {
+                "name": "Ankara Kalesi",
+                "info": "Ankara Kalesi, şehrin tarihine tanıklık eden önemli bir yapıdır. Roma döneminden günümüze kadar pek çok medeniyet tarafından kullanılmıştır.",
+                "image": "/images/ankara-kalesi.jpg"
+            },
+            {
+                "name": "Etnografya Müzesi",
+                "info": "Ankara Etnografya Müzesi, Türk kültürünün çeşitli yönlerini sergileyen bir müzedir. Geleneksel el sanatları, kıyafetler ve objeler müzede bulunur.",
+                "image": "/images/ankara-etnografya-muzesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Antalya",
+        "info": "Antalya, Türkiye'nin Akdeniz kıyısında bulunan turistik bir şehridir. Tarih, doğa ve plajlarıyla ünlüdür.",
+        "image-1": "/images/antalya-1.jpg",
+        "image-2": "/images/antalya-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Kaleiçi",
+                "info": "Kaleiçi, Antalya'nın tarihi merkezidir. Dar sokakları, eski evleri ve tarihi yapılarıyla ziyaretçilerini cezbeder.",
+                "image": "/images/kaleici.jpg"
+            },
+            {
+                "name": "Antalya Müzesi",
+                "info": "Antalya Müzesi, bölgedeki arkeolojik eserlerin sergilendiği önemli bir müzedir. Likya, Pamphylia ve Pisidia gibi antik bölgelere ait eserler burada bulunur.",
+                "image": "/images/antalya-muzesi.jpg"
+            },
+            {
+                "name": "Düden Şelalesi",
+                "info": "Düden Şelalesi, Antalya'nın sembollerinden biridir. Şehir merkezine yakın konumda bulunur ve etkileyici bir doğal güzellik sunar.",
+                "image": "/images/duden-selalesi.jpg"
+            },
+            {
+                "name": "Termessos Antik Kenti",
+                "info": "Termessos Antik Kenti, Antalya'nın en önemli antik kentlerinden biridir. Yüksek dağlarda yer almasıyla dikkat çeker ve muhteşem manzaralar sunar.",
+                "image": "/images/termessos-antik-kenti.jpg"
+            },
+            {
+                "name": "Aspendos Antik Tiyatrosu",
+                "info": "Aspendos Antik Tiyatrosu, Roma dönemine ait muhteşem bir tiyatro yapısıdır. Hala kullanılmaktadır ve yıllık birçok etkinliğe ev sahipliği yapar.",
+                "image": "/images/aspendos-antik-tiyatro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Ardahan",
+        "info": "Ardahan, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan bir şehirdir. Doğal güzellikleri ve tarihi mekanlarıyla dikkat çeker.",
+        "image-1": "/images/ardahan-1.jpg",
+        "image-2": "/images/ardahan-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Çıldır Gölü",
+                "info": "Çıldır Gölü, Ardahan'ın en büyük doğal gölüdür. Kışın donarak buz tutmasıyla ünlüdür ve bu dönemde buz üzerinde yürüyüş yapılabilir.",
+                "image": "/images/cildir-golu.jpg"
+            },
+            {
+                "name": "Ardahan Kalesi",
+                "info": "Ardahan Kalesi, şehrin tarihine tanıklık eden önemli bir yapıdır. Selçuklu döneminden kalan kalıntılarıyla ziyaretçilerini etkiler.",
+                "image": "/images/ardahan-kalesi.jpg"
+            },
+            {
+                "name": "Yalnızçam Kayak Merkezi",
+                "info": "Yalnızçam Kayak Merkezi, Ardahan'ın önemli turistik noktalarından biridir. Kış aylarında kayak ve snowboard yapmak için ideal bir mekandır.",
+                "image": "/images/yalnizcam-kayak-merkezi.jpg"
+            },
+            {
+                "name": "Ardahan Tabiat Parkı",
+                "info": "Ardahan Tabiat Parkı, şehrin doğal güzelliklerini korumak amacıyla kurulmuş önemli bir koruma alanıdır. Yürüyüş ve piknik için uygundur.",
+                "image": "/images/ardahan-tabiat-parki.jpg"
+            },
+            {
+                "name": "Ardahan Müzesi",
+                "info": "Ardahan Müzesi, bölgedeki tarih ve kültür eserlerinin sergilendiği bir müzedir. Şehrin tarihine ve kültürüne dair önemli bilgiler sunar.",
+                "image": "/images/ardahan-muzesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Artvin",
+        "info": "Artvin, Türkiye'nin Karadeniz Bölgesi'nde bulunan doğal güzellikleriyle ünlü bir şehirdir. Yemyeşil doğası ve tarihi yapılarıyla dikkat çeker.",
+        "image-1": "/images/artvin-1.jpg",
+        "image-2": "/images/artvin-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Şavşat Karagöl",
+                "info": "Şavşat Karagöl, Artvin'in önemli doğal göllerinden biridir. Çevresi ormanlarla kaplı ve doğal güzelliğiyle ziyaretçilerini büyüler.",
+                "image": "/images/savsat-karagol.jpg"
+            },
+            {
+                "name": "Şavşat Kanyonları",
+                "info": "Şavşat Kanyonları, muhteşem doğal güzelliklere sahip bir doğa harikasıdır. Trekking ve doğa yürüyüşü için ideal bir bölgedir.",
+                "image": "/images/savsat-kanyonlari.jpg"
+            },
+            {
+                "name": "Meryem Ana Manastırı",
+                "info": "Meryem Ana Manastırı, Artvin'in tarihi yapılarından biridir. Ormanlar arasında mistik bir atmosfere sahip olan manastır, ziyaretçilerini etkiler.",
+                "image": "/images/meryem-ana-manastiri.jpg"
+            },
+            {
+                "name": "Borçka Karagöl Tabiat Parkı",
+                "info": "Borçka Karagöl Tabiat Parkı, Artvin'in turistik yerlerinden biridir. Doğal güzelliği ve temiz havasıyla ziyaretçilerine huzur verir.",
+                "image": "/images/borcak-karagol-tabiat-parki.jpg"
+            },
+            {
+                "name": "Şavşat Yaylaları",
+                "info": "Şavşat Yaylaları, Artvin'in yemyeşil yaylalarından biridir. Doğal güzellikleri ve serin havasıyla ziyaretçilerini cezbetmektedir.",
+                "image": "/images/savsat-yaylalari.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Aydın",
+        "info": "Aydın, Türkiye'nin Ege Bölgesi'nde bulunan tarihi ve doğal güzellikleriyle ünlü bir şehirdir. Zeytin ve pamuk tarımıyla da tanınır.",
+        "image-1": "/images/aydin-1.jpg",
+        "image-2": "/images/aydin-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Didim Antik Kenti",
+                "info": "Didim Antik Kenti, Aydın'ın önemli tarihi ve arkeolojik bölgelerinden biridir. Apollo Tapınağı burada bulunur.",
+                "image": "/images/didim-antik-kenti.jpg"
+            },
+            {
+                "name": "Kuşadası",
+                "info": "Kuşadası, Aydın'ın önemli turistik merkezlerinden biridir. Deniz turizmi, plajları ve eğlence mekanlarıyla ünlüdür.",
+                "image": "/images/kusadasi.jpg"
+            },
+            {
+                "name": "Efes Antik Kenti",
+                "info": "Efes Antik Kenti, Aydın'ın tarihi ve arkeolojik açıdan en önemli bölgelerinden biridir. Artemis Tapınağı ve Büyük Tiyatro burada bulunur.",
+                "image": "/images/efes-antik-kenti.jpg"
+            },
+            {
+                "name": "Priene Antik Kenti",
+                "info": "Priene Antik Kenti, Aydın'ın önemli arkeolojik bölgelerinden biridir. Helenistik döneme ait kalıntılarıyla ziyaretçilerini cezbeder.",
+                "image": "/images/priene-antik-kenti.jpg"
+            },
+            {
+                "name": "Milet Antik Kenti",
+                "info": "Milet Antik Kenti, Aydın'ın tarihi ve arkeolojik açıdan önemli yerlerinden biridir. Likya Birliği'nin üyesi olan kent, tarih boyunca önemli bir rol oynamıştır.",
+                "image": "/images/milet-antik-kenti.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Balıkesir",
+        "info": "Balıkesir, Türkiye'nin Marmara Bölgesi'nde bulunan önemli bir şehirdir. Tarım ve hayvancılık açısından oldukça gelişmiştir.",
+        "image-1": "/images/balikesir-1.jpg",
+        "image-2": "/images/balikesir-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Kaz Dağları",
+                "info": "Kaz Dağları, Balıkesir'in önemli doğal güzelliklerinden biridir. Yayla turizmi ve trekking için popüler bir destinasyondur.",
+                "image": "/images/kaz-daglari.jpg"
+            },
+            {
+                "name": "Cunda Adası",
+                "info": "Cunda Adası, Balıkesir'in turistik ve tarihi bölgelerinden biridir. Rum mimarisi ve doğal güzellikleriyle ünlüdür.",
+                "image": "/images/cunda-adasi.jpg"
+            },
+            {
+                "name": "Edremit Körfezi",
+                "info": "Edremit Körfezi, Balıkesir'in önemli turistik bölgelerinden biridir. Plajları ve doğal güzellikleriyle ziyaretçilerini cezbeder.",
+                "image": "/images/edremit-korfezi.jpg"
+            },
+            {
+                "name": "Ayvalık",
+                "info": "Ayvalık, Balıkesir'in turistik ve tarihi bölgelerinden biridir. Deniz turizmi, tarihi yapıları ve zeytinlikleriyle ünlüdür.",
+                "image": "/images/ayvalik.jpg"
+            },
+            {
+                "name": "Bandırma",
+                "info": "Bandırma, Balıkesir'in önemli liman kentlerinden biridir. Tarihi ve kültürel mirasıyla dikkat çeker.",
+                "image": "/images/bandirma.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Bartın",
+        "info": "Bartın, Türkiye'nin Karadeniz Bölgesi'nde yer alan bir şehirdir. Doğal güzellikleri ve tarihi mirasıyla ön plana çıkar.",
+        "image-1": "/images/bartin-1.jpg",
+        "image-2": "/images/bartin-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Amasra",
+                "info": "Amasra, Bartın'ın turistik ve tarihi bir ilçesidir. Antik çağlardan kalma tarihi kalıntıları ve doğal güzellikleriyle ünlüdür.",
+                "image": "/images/amasra.jpg"
+            },
+            {
+                "name": "Inkumu Plajı",
+                "info": "Inkumu Plajı, Bartın'ın en ünlü plajlarından biridir. Uzun kumsalı ve temiz deniziyle ziyaretçilerini cezbeder.",
+                "image": "/images/inkumu-plaji.jpg"
+            },
+            {
+                "name": "Bartın Arkeoloji ve Etnografya Müzesi",
+                "info": "Bartın Arkeoloji ve Etnografya Müzesi, bölgedeki tarihi ve kültürel eserlerin sergilendiği bir müzedir. Geçmişten günümüze Bartın'ın yaşamını yansıtan eserleri barındırır.",
+                "image": "/images/bartin-arkeoloji-muzesi.jpg"
+            },
+            {
+                "name": "Ulukaya Şelalesi",
+                "info": "Ulukaya Şelalesi, Bartın'ın doğal güzelliklerinden biridir. Ormanlık bir alanda yer alır ve huzur verici bir atmosfere sahiptir.",
+                "image": "/images/ulukaya-selalesi.jpg"
+            },
+            {
+                "name": "Kapıdağ Yarımadası",
+                "info": "Kapıdağ Yarımadası, Bartın'ın önemli doğal bölgelerinden biridir. Yürüyüş parkurları ve manzara noktalarıyla ünlüdür.",
+                "image": "/images/kapidag-yarimadasi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Batman",
+        "info": "Batman, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde bulunan bir şehirdir. Kültürel mirası ve doğal güzellikleriyle dikkat çeker.",
+        "image-1": "/images/batman-1.jpg",
+        "image-2": "/images/batman-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Hasankeyf",
+                "info": "Hasankeyf, Batman'ın tarihi ve turistik bir ilçesidir. Dicle Nehri kıyısında yer alan Hasankeyf, tarihi yapıları ve doğal güzellikleriyle ünlüdür.",
+                "image": "/images/hasankeyf.jpg"
+            },
+            {
+                "name": "Batman Çayı",
+                "info": "Batman Çayı, şehrin merkezinden geçen önemli bir akarsudur. Çay kenarında yürüyüş yapmak ve piknik yapmak için idealdir.",
+                "image": "/images/batman-cayi.jpg"
+            },
+            {
+                "name": "Batman Kalesi",
+                "info": "Batman Kalesi, şehrin tarihi sembollerinden biridir. Ortaçağ'da yapılmış olan kale, şehrin panoramik manzarasını sunar.",
+                "image": "/images/batman-kalesi.jpg"
+            },
+            {
+                "name": "Maden Deresi Vadisi",
+                "info": "Maden Deresi Vadisi, doğal güzelliğiyle bilinen bir vadidir. Trekking ve doğa yürüyüşleri için popüler bir yerdir.",
+                "image": "/images/maden-dere-vadisi.jpg"
+            },
+            {
+                "name": "Zinciriye Medresesi",
+                "info": "Zinciriye Medresesi, Selçuklu dönemine ait tarihi bir yapıdır. Mimari açıdan önemli olan medrese, ziyaretçilere tarihi bir yolculuk sunar.",
+                "image": "/images/zinciriye-medresesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Bayburt",
+        "info": "Bayburt, Türkiye'nin Karadeniz Bölgesi'nde yer alan küçük bir şehirdir. Doğal güzellikleri ve tarihi dokusuyla dikkat çeker.",
+        "image-1": "/images/bayburt-1.jpg",
+        "image-2": "/images/bayburt-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Bayburt Kalesi",
+                "info": "Bayburt Kalesi, şehrin tarihi simgelerinden biridir. Ortaçağ'da yapılmış olan kale, şehre hakim bir konumdadır.",
+                "image": "/images/bayburt-kalesi.jpg"
+            },
+            {
+                "name": "Aydıntepe Mağaraları",
+                "info": "Aydıntepe Mağaraları, Bayburt'un doğal güzelliklerinden biridir. Mağara keşifleri ve doğa yürüyüşleri için popüler bir yerdir.",
+                "image": "/images/aydintepe-magaralari.jpg"
+            },
+            {
+                "name": "Yedigöller Yaylası",
+                "info": "Yedigöller Yaylası, doğal bir yayla alanıdır. Yaz aylarında serinlemek ve doğanın tadını çıkarmak için ideal bir destinasyondur.",
+                "image": "/images/yedigoller-yaylasi.jpg"
+            },
+            {
+                "name": "Kaplıcalar",
+                "info": "Bayburt'un çeşitli bölgelerinde termal kaplıcalar bulunur. Doğal şifalı sularıyla ünlü olan kaplıcalar, dinlenme ve tedavi için tercih edilir.",
+                "image": "/images/kaplicalalar.jpg"
+            },
+            {
+                "name": "Sarahoğlu Konağı",
+                "info": "Sarahoğlu Konağı, tarihi bir konak olarak bilinir. Geleneksel mimarisi ve süslemeleriyle dikkat çeker ve ziyaretçilere tarihî bir atmosfer sunar.",
+                "image": "/images/sarahoglu-konagi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Bilecik",
+        "info": "Bilecik, Türkiye'nin Marmara Bölgesi'nde yer alan küçük bir şehirdir. Tarihi ve doğal güzellikleriyle ön plana çıkar.",
+        "image-1": "/images/bilecik-1.jpg",
+        "image-2": "/images/bilecik-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Seyit Battal Gazi Türbesi",
+                "info": "Seyit Battal Gazi Türbesi, Bilecik'in tarihi ve dini öneme sahip bir yapıdır. Ziyaretçiler için önemli bir turistik destinasyondur.",
+                "image": "/images/seyit-battal-gazi-turbesi.jpg"
+            },
+            {
+                "name": "Bilecik Müzesi",
+                "info": "Bilecik Müzesi, şehrin tarihini ve kültürel mirasını sergileyen bir müzedir. Birçok tarihi eseri içerisinde barındırır.",
+                "image": "/images/bilecik-muzesi.jpg"
+            },
+            {
+                "name": "Irmak Kıyısı",
+                "info": "Bilecik, Sakarya Nehri kıyısında yer alır. Nehir kıyısında yürüyüş yapmak, piknik yapmak ve doğanın tadını çıkarmak için ideal bir yerdir.",
+                "image": "/images/irmak-kiyisi.jpg"
+            },
+            {
+                "name": "Söğüt",
+                "info": "Söğüt, Osmanlı İmparatorluğu'nun kurucusu Osman Gazi'nin doğum yeri olarak bilinir. Tarihi ve kültürel öneme sahiptir.",
+                "image": "/images/sogut.jpg"
+            },
+            {
+                "name": "Seyh Edebali Türbesi",
+                "info": "Seyh Edebali Türbesi, Osman Gazi'nin manevi hocası Seyh Edebali'ye aittir. Osmanlı'nın kuruluşuna tanıklık eden bir tarihi yapıdır.",
+                "image": "/images/seyh-edebali-turbesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Bingöl",
+        "info": "Bingöl, Doğu Anadolu Bölgesi'nde yer alan bir şehirdir. Doğal güzellikleri ve tarihi zenginlikleriyle ön plana çıkar.",
+        "image-1": "/images/bingol-1.jpg",
+        "image-2": "/images/bingol-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Bingöl Gölü",
+                "info": "Bingöl Gölü, şehrin en büyük doğal gölüdür. Doğal güzelliği ve çevresindeki piknik alanlarıyla ziyaretçilerin uğrak noktasıdır.",
+                "image": "/images/bingol-golu.jpg"
+            },
+            {
+                "name": "Yolçatı Kayak Merkezi",
+                "info": "Yolçatı Kayak Merkezi, kış aylarında kayak ve snowboard yapmak için ideal bir destinasyondur. Bingöl'ün turizm potansiyelini artırır.",
+                "image": "/images/yolcati-kayak-merkezi.jpg"
+            },
+            {
+                "name": "Gölbaşı Piknik Alanı",
+                "info": "Gölbaşı Piknik Alanı, Bingöl Gölü'nün kıyısında yer alan popüler bir piknik alanıdır. Doğa yürüyüşleri ve piknik için uygundur.",
+                "image": "/images/golbasi-piknik-alani.jpg"
+            },
+            {
+                "name": "Solhan Kalesi",
+                "info": "Solhan Kalesi, tarihi bir kale kalıntısıdır. Bingöl'ün tarihine tanıklık eden bu yapı, ziyaretçiler için önemli bir turistik noktadır.",
+                "image": "/images/solhan-kalesi.jpg"
+            },
+            {
+                "name": "Hasankeyf Köprüsü",
+                "info": "Hasankeyf Köprüsü, tarihi bir köprüdür. Tarihi zenginlikleriyle ünlü Hasankeyf ilçesinde yer alır ve bölgenin simgelerinden biridir.",
+                "image": "/images/hasankeyf-koprusu.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Bitlis",
+        "info": "Bitlis, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan bir şehirdir. Tarihi ve doğal güzellikleriyle dikkat çeker.",
+        "image-1": "/images/bitlis-1.jpg",
+        "image-2": "/images/bitlis-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Nemrut Krater Gölü",
+                "info": "Nemrut Krater Gölü, Bitlis'in en önemli doğal güzelliklerinden biridir. Krater gölü olmasıyla dikkat çeker ve doğa turizmi için idealdir.",
+                "image": "/images/nemrut-krater-golu.jpg"
+            },
+            {
+                "name": "Bitlis Kalesi",
+                "info": "Bitlis Kalesi, şehrin en önemli tarihi yapılarından biridir. Orta Çağ'da yapılmış olan kale, şehrin tarihine tanıklık eder.",
+                "image": "/images/bitlis-kalesi.jpg"
+            },
+            {
+                "name": "Ahlat Selçuklu Mezarlığı",
+                "info": "Ahlat Selçuklu Mezarlığı, tarihi bir mezarlık alanıdır. Selçuklu dönemine ait birçok türbeden oluşur ve tarihi bir atmosfere sahiptir.",
+                "image": "/images/ahlat-selcuklu-mezarlari.jpg"
+            },
+            {
+                "name": "Süphan Dağı",
+                "info": "Süphan Dağı, Bitlis'in en yüksek noktasıdır. Doğa sporları ve trekking için popüler bir destinasyondur. Manzara ve doğal güzellikleriyle ünlüdür.",
+                "image": "/images/suphan-dagi.jpg"
+            },
+            {
+                "name": "Eflatun Pınar",
+                "info": "Eflatun Pınar, antik dönemlerden kalma tarihi bir su kaynağıdır. Bitlis'in tarihi zenginliklerinden biridir ve ziyaretçiler için önemli bir noktadır.",
+                "image": "/images/eflatun-pinar.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Bolu",
+        "info": "Bolu, Türkiye'nin Karadeniz Bölgesi'nde yer alan bir ildir. Doğal güzellikleri ve tarihi dokusuyla önemli bir turizm merkezidir.",
+        "image-1": "/images/bolu-1.jpg",
+        "image-2": "/images/bolu-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Gölcük Tabiat Parkı",
+                "info": "Gölcük Tabiat Parkı, Bolu'nun en popüler turistik mekanlarından biridir. Doğal göl manzarası ve çevresindeki doğal güzelliklerle ziyaretçilerini büyüler.",
+                "image": "/images/golcuk-tabiat-parki.jpg"
+            },
+            {
+                "name": "Yedigöller Milli Parkı",
+                "info": "Yedigöller Milli Parkı, Bolu'nun en önemli doğal koruma alanlarından biridir. Yedi adet gölden oluşur ve yürüyüş parkurlarıyla ünlüdür.",
+                "image": "/images/yedigoller-milli-parki.jpg"
+            },
+            {
+                "name": "Göynük Safranbolu Evleri",
+                "info": "Göynük, Bolu'nun tarihi evleriyle ünlü bir ilçesidir. Safranbolu ev mimarisinin güzel örnekleri burada bulunur ve tarih kokan bir atmosfere sahiptir.",
+                "image": "/images/goynuk-safranbolu-evleri.jpg"
+            },
+            {
+                "name": "Gerede Soğuksu Milli Parkı",
+                "info": "Gerede Soğuksu Milli Parkı, Bolu'nun Gerede ilçesinde bulunan doğal bir koruma alanıdır. Piknik, kamp ve doğa yürüyüşleri için ideal bir yerdir.",
+                "image": "/images/gerede-soguksu-milli-parki.jpg"
+            },
+            {
+                "name": "Gölcük Şelalesi",
+                "info": "Gölcük Şelalesi, Bolu'nun doğal güzelliklerinden biridir. Gölcük Tabiat Parkı içinde yer alır ve serin sularıyla ziyaretçilerini cezbeder.",
+                "image": "/images/golcuk-selalesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Burdur",
+        "info": "Burdur, Türkiye'nin Akdeniz Bölgesi'nde bulunan bir ildir. Doğal güzellikleri, tarihi ve kültürel mirasıyla önemli bir turizm merkezidir.",
+        "image-1": "/images/burdur-1.jpg",
+        "image-2": "/images/burdur-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Burdur Müzesi",
+                "info": "Burdur Müzesi, ilin tarihini ve kültürünü yansıtan önemli bir müzedir. Arkeolojik eserler, etnografik objeler ve daha birçok sergi burada bulunur.",
+                "image": "/images/burdur-muzesi.jpg"
+            },
+            {
+                "name": "Burdur Gölü",
+                "info": "Burdur Gölü, Türkiye'nin en büyük tatlı su göllerinden biridir. Kuş gözlemciliği ve doğa yürüyüşleri için popüler bir destinasyondur.",
+                "image": "/images/burdur-golu.jpg"
+            },
+            {
+                "name": "Sagalassos Antik Kenti",
+                "info": "Sagalassos Antik Kenti, Burdur'un yakınında yer alan önemli bir arkeolojik alanıdır. Roma dönemine ait kalıntılarıyla bilinir.",
+                "image": "/images/sagalassos-antik-kenti.jpg"
+            },
+            {
+                "name": "Burdur İncirhan",
+                "info": "Burdur İncirhan, Selçuklu dönemine ait tarihi bir kervansaraydır. Restorasyon sonrası turistik amaçlı kullanılmaktadır.",
+                "image": "/images/burdur-incirhan.jpg"
+            },
+            {
+                "name": "Burdur Taş Oymacılığı Eserleri",
+                "info": "Burdur, geleneksel taş oymacılığıyla ünlüdür. Şehirde bulunan taş işçiliği eserleri ziyaretçilerin ilgisini çeker.",
+                "image": "/images/burdur-tas-oymaciligi-eserleri.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Bursa",
+        "info": "Bursa, Türkiye'nin Marmara Bölgesi'nde bulunan önemli bir şehirdir. Tarihi ve kültürel mirası, doğal güzellikleri ve sanayi alanındaki önemi ile bilinir.",
+        "image-1": "/images/bursa-1.jpg",
+        "image-2": "/images/bursa-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Ulu Camii",
+                "info": "Ulu Camii, Osmanlı döneminin en önemli yapılarından biridir. Mimari özellikleri ve süslemeleriyle dikkat çeker.",
+                "image": "/images/ulu-camii.jpg"
+            },
+            {
+                "name": "Yeşil Türbe",
+                "info": "Yeşil Türbe, Osmanlı'nın kurucusu Osman Gazi'nin türbesidir. Yeşil rengiyle bilinir ve Bursa'nın simgelerinden biridir.",
+                "image": "/images/yesil-turbe.jpg"
+            },
+            {
+                "name": "Tophane",
+                "info": "Tophane, Bursa'nın tarihi bir semtidir. Osmanlı döneminden kalma tarihi yapılar ve dar sokaklarıyla ünlüdür.",
+                "image": "/images/tophane.jpg"
+            },
+            {
+                "name": "Uludağ",
+                "info": "Uludağ, Bursa'nın sembolü olan bir dağdır. Kış turizmi için popülerdir ve yaz aylarında doğa yürüyüşleri için tercih edilir.",
+                "image": "/images/uludag.jpg"
+            },
+            {
+                "name": "İznik Gölü",
+                "info": "İznik Gölü, Bursa'nın güneyinde yer alan bir tatlı su gölüdür. Kuş gözlemciliği ve doğa turizmi için ideal bir destinasyondur.",
+                "image": "/images/iznik-golu.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Çanakkale",
+        "info": "Çanakkale, Türkiye'nin Marmara Bölgesi'nde bulunan önemli bir şehirdir. Tarihi geçmişi ve stratejik konumuyla bilinir.",
+        "image-1": "/images/canakkale-1.jpg",
+        "image-2": "/images/canakkale-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Çanakkale Şehitleri Anıtı",
+                "info": "Çanakkale Şehitleri Anıtı, Gelibolu Yarımadası'nda yer alan önemli bir tarihi anıttır. Çanakkale Savaşı'nda hayatını kaybeden askerleri anmak için inşa edilmiştir.",
+                "image": "/images/canakkale-sehitleri-aniti.jpg"
+            },
+            {
+                "name": "Kilitbahir Kalesi",
+                "info": "Kilitbahir Kalesi, Çanakkale Boğazı'nı korumak için inşa edilmiş bir Osmanlı kalesidir. Tarihi dokusu ve manzarasıyla ziyaretçileri cezbetmektedir.",
+                "image": "/images/kilitbahir-kalesi.jpg"
+            },
+            {
+                "name": "Gelibolu Yarımadası Tarihi Milli Parkı",
+                "info": "Gelibolu Yarımadası Tarihi Milli Parkı, Çanakkale Savaşı'nın geçtiği bölgede yer alır. Birçok tarihi eseri barındırır ve savaşın izlerini taşır.",
+                "image": "/images/gelibolu-yarimadasi.jpg"
+            },
+            {
+                "name": "Truva Antik Kenti",
+                "info": "Truva Antik Kenti, Çanakkale'nin güneyinde yer alan önemli bir arkeolojik alan ve tarihi kalıntıdır. Homeros'un İlyada destanında geçen Truva Savaşı'nın geçtiği yer olarak bilinir.",
+                "image": "/images/truva-antik-kenti.jpg"
+            },
+            {
+                "name": "Anzac Koyu",
+                "info": "Anzac Koyu, Gelibolu Yarımadası'nda yer alan önemli bir tarihi mekandır. Avustralya ve Yeni Zelanda'nın Çanakkale Savaşı'nda verdiği mücadeleyi anmak için kullanılan bir alan olarak bilinir.",
+                "image": "/images/anzac-koyu.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Çankırı",
+        "info": "Çankırı, Türkiye'nin İç Anadolu Bölgesi'nde bulunan bir şehirdir. Tarım ve hayvancılık önemli geçim kaynaklarıdır.",
+        "image-1": "/images/cankiri-1.jpg",
+        "image-2": "/images/cankiri-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Çankırı Kalesi",
+                "info": "Çankırı Kalesi, şehir merkezinde yer alan tarihi bir kale yapısıdır. Selçuklu ve Osmanlı dönemlerine ait izler taşır.",
+                "image": "/images/cankiri-kalesi.jpg"
+            },
+            {
+                "name": "Kurşunlu Hamam",
+                "info": "Kurşunlu Hamam, Osmanlı döneminde inşa edilmiş tarihi bir hamam yapısıdır. Mimari açıdan önemli bir yapıdır.",
+                "image": "/images/kursunlu-hamam.jpg"
+            },
+            {
+                "name": "Atatürk Evi ve Müze",
+                "info": "Çankırı'da bulunan Atatürk Evi ve Müze, Mustafa Kemal Atatürk'ün kaldığı bir ev olarak korunmuş ve müze haline getirilmiştir. Ziyaretçilerin ilgisini çeken önemli bir tarihi yapıdır.",
+                "image": "/images/ataturk-evi-ve-muze.jpg"
+            },
+            {
+                "name": "Çankırı Arkeoloji ve Etnografya Müzesi",
+                "info": "Çankırı Arkeoloji ve Etnografya Müzesi, şehirdeki tarihi ve kültürel eserlerin sergilendiği bir müzedir. Bölgenin arkeolojik ve etnografik mirasını tanıtmak amacıyla kurulmuştur.",
+                "image": "/images/cankiri-arkeoloji-ve-etnografya-muzesi.jpg"
+            },
+            {
+                "name": "Ilısu Şelalesi",
+                "info": "Ilısu Şelalesi, Çankırı'nın Ilısu Köyü'nde yer alan doğal bir güzelliktir. Piknik alanları ve yürüyüş parkurlarıyla ziyaretçilere huzurlu bir ortam sunar.",
+                "image": "/images/ilisu-selalesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Çorum",
+        "info": "Çorum, Türkiye'nin Karadeniz Bölgesi'nin İç Anadolu kesiminde yer alan bir şehirdir. Tarım ve hayvancılık önemli geçim kaynaklarıdır.",
+        "image-1": "/images/corum-1.jpg",
+        "image-2": "/images/corum-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Alacahöyük",
+                "info": "Alacahöyük, Çorum'un Alaca ilçesinde bulunan önemli bir arkeolojik alan ve açık hava müzesidir. Hitit dönemine ait birçok eser burada bulunmuştur.",
+                "image": "/images/alacahoyuk.jpg"
+            },
+            {
+                "name": "Çorum Müzesi",
+                "info": "Çorum Müzesi, şehir merkezinde bulunan ve bölgedeki arkeolojik eserlerin sergilendiği bir müzedir. Hitit ve Frigya dönemlerine ait eserler burada sergilenir.",
+                "image": "/images/corum-muzesi.jpg"
+            },
+            {
+                "name": "Boğazkale",
+                "info": "Boğazkale, Çorum'un bir ilçesidir ve Hitit dönemine ait önemli kalıntıları barındırır. Hattuşaş Antik Kenti bu ilçenin sınırları içindedir.",
+                "image": "/images/bogazkale.jpg"
+            },
+            {
+                "name": "Kargı Aslanhane",
+                "info": "Kargı Aslanhane, Çorum'un Kargı ilçesinde bulunan ve Anadolu'nun en eski camisi olarak bilinen tarihi bir yapıdır. Selçuklu dönemine aittir.",
+                "image": "/images/kargi-aslanhane.jpg"
+            },
+            {
+                "name": "Çorum Saat Kulesi",
+                "info": "Çorum Saat Kulesi, şehir merkezinde yer alan tarihi bir saat kulesidir. 1902 yılında inşa edilmiştir ve kentin sembollerinden biridir.",
+                "image": "/images/corum-saat-kulesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Denizli",
+        "info": "Denizli, Türkiye'nin Ege Bölgesi'nin iç kesimlerinde bulunan büyükşehirlerden biridir. Termal turizm ve tekstil endüstrisi önemli gelir kaynaklarıdır.",
+        "image-1": "/images/denizli-1.jpg",
+        "image-2": "/images/denizli-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Pamukkale",
+                "info": "Pamukkale, beyaz travertenleri ve termal kaynaklarıyla ünlü bir doğal harikadır. UNESCO Dünya Mirası Listesi'nde yer alır ve yılda milyonlarca turist çeker.",
+                "image": "/images/pamukkale.jpg"
+            },
+            {
+                "name": "Hierapolis Antik Kenti",
+                "info": "Hierapolis, Pamukkale'nin yanında yer alan antik bir kenttir. Roma ve Bizans dönemlerine ait kalıntıları barındırır ve ziyaretçilerin ilgisini çeker.",
+                "image": "/images/hierapolis.jpg"
+            },
+            {
+                "name": "Denizli Kalesi",
+                "info": "Denizli Kalesi, şehir merkezinde bulunan tarihi bir kaledir. Selçuklu döneminden kalma olup şehrin simgelerinden biridir.",
+                "image": "/images/denizli-kalesi.jpg"
+            },
+            {
+                "name": "Çamlık Parkı",
+                "info": "Çamlık Parkı, şehir merkezinde yer alan büyük bir parktır. Piknik alanları, yürüyüş yolları ve çocuk oyun alanlarıyla doludur.",
+                "image": "/images/camlik-parki.jpg"
+            },
+            {
+                "name": "Laodikeia Antik Kenti",
+                "info": "Laodikeia, Denizli'nin Honaz ilçesinde bulunan antik bir kenttir. Roma dönemine ait kalıntılarıyla bilinir ve tarih meraklıları için önemli bir ziyaret noktasıdır.",
+                "image": "/images/laodikeia.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Diyarbakır",
+        "info": "Diyarbakır, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde bulunan büyükşehirlerden biridir. Kültürel mirası ve tarihi dokusuyla dikkat çeker.",
+        "image-1": "/images/diyarbakir-1.jpg",
+        "image-2": "/images/diyarbakir-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Diyarbakır Surları",
+                "info": "Diyarbakır Surları, şehir merkezini çevreleyen tarihi surlardır. Uzunluğu ve korunmuş yapısıyla dikkat çeker ve UNESCO Dünya Mirası Listesi'nde yer alır.",
+                "image": "/images/diyarbakir-surlari.jpg"
+            },
+            {
+                "name": "Hevsel Bahçeleri",
+                "info": "Hevsel Bahçeleri, Dicle Nehri'nin kıyısında bulunan ve tarım yapılan alanlardır. Tarihi ve doğal değeri yüksektir ve şehrin simgelerinden biridir.",
+                "image": "/images/hevsel-bahceleri.jpg"
+            },
+            {
+                "name": "Dicle Köprüsü",
+                "info": "Dicle Köprüsü, Dicle Nehri üzerinde yer alan tarihi bir köprüdür. Osmanlı dönemine ait olup şehrin önemli simgelerindendir.",
+                "image": "/images/dicle-koprusu.jpg"
+            },
+            {
+                "name": "Diyarbakır Ulu Camii",
+                "info": "Diyarbakır Ulu Camii, tarihi bir camidir ve şehrin en eski ibadet yerlerinden biridir. Mimari açıdan önemli bir yapıdır.",
+                "image": "/images/diyarbakir-ulu-camii.jpg"
+            },
+            {
+                "name": "Diyarbakır Kalesi",
+                "info": "Diyarbakır Kalesi, şehir merkezinde yer alan tarihi bir kaledir. Tarihi ve mimari açıdan önemli olup şehre yüksekten bakan bir konumdadır.",
+                "image": "/images/diyarbakir-kalesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Düzce",
+        "info": "Düzce, Türkiye'nin Karadeniz Bölgesi'nde yer alan bir ildir. Doğal güzellikleri ve tarihi dokusuyla dikkat çeker.",
+        "image-1": "/images/duzce-1.jpg",
+        "image-2": "/images/duzce-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Güzeldere Şelalesi",
+                "info": "Güzeldere Şelalesi, ilin doğal güzelliklerinden biridir. Ormanlık bir alanda yer alır ve ziyaretçilerin doğayla iç içe vakit geçirmesini sağlar.",
+                "image": "/images/guzeldere-selalesi.jpg"
+            },
+            {
+                "name": "Konuralp Müzesi",
+                "info": "Konuralp Müzesi, tarihi eserlerin sergilendiği bir müzedir. Konuralp Antik Kenti'nin kalıntılarına ev sahipliği yapar ve bölgenin tarihini yansıtır.",
+                "image": "/images/konuralp-muzesi.jpg"
+            },
+            {
+                "name": "Düzce Kalesi",
+                "info": "Düzce Kalesi, tarihi bir kaledir ve şehir merkezinde yer alır. Ortaçağ döneminden kalma bir yapı olup şehrin tarihini yansıtır.",
+                "image": "/images/duzce-kalesi.jpg"
+            },
+            {
+                "name": "Yığılca Kanyonu",
+                "info": "Yığılca Kanyonu, doğal bir güzelliktir. Derin vadilerden oluşur ve doğa yürüyüşleri, kamp ve doğa sporları için popüler bir noktadır.",
+                "image": "/images/yigilca-kanyonu.jpg"
+            },
+            {
+                "name": "Cumayeri Göleti",
+                "info": "Cumayeri Göleti, dinlenme ve piknik alanı olarak kullanılan bir gölettir. Doğal güzelliği ve çevresindeki yeşil alanlar ziyaretçilere huzur verir.",
+                "image": "/images/cumayeri-goleti.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Edirne",
+        "info": "Edirne, Türkiye'nin Trakya Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Osmanlı İmparatorluğu'nun başkenti olduğu dönemde önemli bir merkezdi.",
+        "image-1": "/images/edirne-1.jpg",
+        "image-2": "/images/edirne-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Selimiye Camii",
+                "info": "Selimiye Camii, Osmanlı mimarisinin en önemli eserlerinden biridir. Mimar Sinan tarafından inşa edilmiş ve UNESCO Dünya Mirası Listesi'nde yer almaktadır.",
+                "image": "/images/selimiye-camii.jpg"
+            },
+            {
+                "name": "Edirne Sarayı",
+                "info": "Edirne Sarayı, Osmanlı döneminde kullanılan bir saraydır. Birçok farklı yapıdan oluşur ve dönemin mimari özelliklerini yansıtır.",
+                "image": "/images/edirne-sarayi.jpg"
+            },
+            {
+                "name": "Üç Şerefeli Camii",
+                "info": "Üç Şerefeli Camii, Edirne'nin simgelerinden biridir. 15. yüzyılda yapılmış olup çok sayıda minaresiyle dikkat çeker.",
+                "image": "/images/uc-serefeli-camii.jpg"
+            },
+            {
+                "name": "Edirne Kırkpınar Yağlı Güreşleri",
+                "info": "Edirne Kırkpınar Yağlı Güreşleri, dünyanın en eski ve en önemli güreş organizasyonlarından biridir. Geleneksel olarak her yıl Temmuz ayında düzenlenir.",
+                "image": "/images/kirkpinar-yagli-guresleri.jpg"
+            },
+            {
+                "name": "Karaağaç Tren Garı",
+                "info": "Karaağaç Tren Garı, şehrin tarihine tanıklık eden önemli bir yapıdır. Osmanlı döneminde inşa edilmiş olup günümüzde müze olarak hizmet vermektedir.",
+                "image": "/images/karaagac-tren-gari.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Elazığ",
+        "info": "Elazığ, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan tarihi ve kültürel bir şehirdir. Fırat Nehri'nin kıyısında konumlanmıştır.",
+        "image-1": "/images/elazig-1.jpg",
+        "image-2": "/images/elazig-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Harput Kalesi",
+                "info": "Harput Kalesi, Elazığ'ın sembollerinden biridir. Tarihi bir kaledir ve şehrin manzarasını izlemek için harika bir noktadır.",
+                "image": "/images/harput-kalesi.jpg"
+            },
+            {
+                "name": "Elazığ Arkeoloji ve Etnografya Müzesi",
+                "info": "Elazığ Arkeoloji ve Etnografya Müzesi, bölgedeki arkeolojik ve etnografik eserlerin sergilendiği önemli bir müzedir. Zengin bir koleksiyona sahiptir.",
+                "image": "/images/elazig-arkeoloji-muzesi.jpg"
+            },
+            {
+                "name": "XV. YY. Harput Konağı",
+                "info": "XV. YY. Harput Konağı, tarihi bir konaktır ve Osmanlı dönemine aittir. Geleneksel Elazığ ev mimarisini yansıtır.",
+                "image": "/images/xv-yy-harput-konagi.jpg"
+            },
+            {
+                "name": "Sürmene Camii",
+                "info": "Sürmene Camii, Elazığ'ın önemli camilerinden biridir. Mimari açıdan dikkat çekicidir ve şehrin simgelerinden biridir.",
+                "image": "/images/surmene-camii.jpg"
+            },
+            {
+                "name": "Elazığ Gölü",
+                "info": "Elazığ Gölü, şehrin önemli doğal güzelliklerinden biridir. Fırat Nehri'nin bir kolu olan Murat Nehri üzerinde yer alır ve etrafı piknik alanlarıyla çevrilidir.",
+                "image": "/images/elazig-golu.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Erzincan",
+        "info": "Erzincan, Türkiye'nin Doğu Anadolu Bölgesi'nde bulunan tarihi ve kültürel bir şehirdir. Tarihi İpek Yolu'nun geçtiği önemli bir merkezdir.",
+        "image-1": "/images/erzincan-1.jpg",
+        "image-2": "/images/erzincan-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Kemaliye (Eğin)",
+                "info": "Kemaliye, tarihi bir kasabadır ve Eğin olarak da bilinir. Doğal güzellikleri ve tarihi dokusuyla dikkat çeker. Rafting için popüler bir destinasyondur.",
+                "image": "/images/kemaliye.jpg"
+            },
+            {
+                "name": "Kemah Kalesi",
+                "info": "Kemah Kalesi, Erzincan'ın sembollerinden biridir. Tarihi bir kaledir ve şehrin manzarasını izlemek için harika bir noktadır.",
+                "image": "/images/kemah-kalesi.jpg"
+            },
+            {
+                "name": "Erzincan Arkeoloji ve Etnografya Müzesi",
+                "info": "Erzincan Arkeoloji ve Etnografya Müzesi, bölgedeki arkeolojik ve etnografik eserlerin sergilendiği önemli bir müzedir. Zengin bir koleksiyona sahiptir.",
+                "image": "/images/erzincan-arkeoloji-muzesi.jpg"
+            },
+            {
+                "name": "Çağlayan Vadisi",
+                "info": "Çağlayan Vadisi, doğal güzelliğiyle ünlüdür. Şelaleleri, yemyeşil doğası ve kanyonlarıyla ziyaretçilere eşsiz bir deneyim sunar.",
+                "image": "/images/caglayan-vadisi.jpg"
+            },
+            {
+                "name": "Narman Peri Bacaları",
+                "info": "Narman Peri Bacaları, ilginç yapılarıyla dikkat çeker. Doğal oluşumları ve eşsiz manzarasıyla ziyaretçileri kendine çeker.",
+                "image": "/images/narman-peri-bacalari.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Erzurum",
+        "info": "Erzurum, Türkiye'nin Doğu Anadolu Bölgesi'nde bulunan tarihi ve kültürel zenginliklere sahip bir şehirdir. Soğuk iklimiyle bilinir ve kış turizmi açısından önemlidir.",
+        "image-1": "/images/erzurum-1.jpg",
+        "image-2": "/images/erzurum-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Palandöken Kayak Merkezi",
+                "info": "Palandöken, Türkiye'nin önemli kayak merkezlerinden biridir. Kış aylarında kayakseverlerin yoğun ilgisini çeker ve uluslararası yarışmalara ev sahipliği yapar.",
+                "image": "/images/palandoken-kayak-merkezi.jpg"
+            },
+            {
+                "name": "Çifte Minareli Medrese",
+                "info": "Çifte Minareli Medrese, Erzurum'un simgelerinden biridir. Selçuklu dönemine ait bir yapı olup, mimarisiyle dikkat çeker. Şehir merkezinde yer alır.",
+                "image": "/images/cifte-minareli-medrese.jpg"
+            },
+            {
+                "name": "Erzurum Kalesi",
+                "info": "Erzurum Kalesi, şehrin tarihi dokusunu yansıtan önemli bir yapıdır. Selçuklu döneminden kalma kale, şehre yüksek bir noktadan hakimdir.",
+                "image": "/images/erzurum-kalesi.jpg"
+            },
+            {
+                "name": "Atatürk Üniversitesi Botanik Bahçesi",
+                "info": "Atatürk Üniversitesi'nin bir parçası olan botanik bahçe, çeşitli bitki türlerini barındırır. Doğa ve bitki sevgilileri için keyifli bir ziyaret noktasıdır.",
+                "image": "/images/erzurum-botanik-bahcesi.jpg"
+            },
+            {
+                "name": "Tortum Şelalesi",
+                "info": "Tortum Şelalesi, Erzurum'un doğal güzelliklerinden biridir. Yüksekliği ve görüntüsüyle etkileyici olan şelale, doğaseverler için cazip bir rota sunar.",
+                "image": "/images/tortum-selalesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Eskişehir",
+        "info": "Eskişehir, Türkiye'nin İç Anadolu Bölgesi'nde bulunan tarihi ve kültürel bir şehirdir. Üniversite şehri olarak bilinir ve pek çok öğrenciye ev sahipliği yapar.",
+        "image-1": "/images/eskisehir-1.jpg",
+        "image-2": "/images/eskisehir-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Odunpazarı Evleri",
+                "info": "Odunpazarı Evleri, Eskişehir'in simgelerinden biridir. Tarihi konaklar ve sokaklarıyla ünlüdür. Yürüyüş yapmak ve kafelerde vakit geçirmek için idealdir.",
+                "image": "/images/odunpazari-evleri.jpg"
+            },
+            {
+                "name": "Porsuk Çayı",
+                "info": "Porsuk Çayı, Eskişehir'in merkezinde bulunan önemli bir su yoludur. Çay kenarında yürüyüş yapabilir, tekne turuyla şehri keşfedebilirsiniz.",
+                "image": "/images/porsuk-cayi.jpg"
+            },
+            {
+                "name": "Eskişehir Bilim Sanat ve Kültür Parkı",
+                "info": "Bilim, sanat ve eğlencenin bir araya geldiği bir parktır. Göletleri, yeşil alanları ve etkinlikleriyle ziyaretçilere keyifli bir zaman geçirme imkanı sunar.",
+                "image": "/images/eskisehir-bilim-sanat-kultur-parki.jpg"
+            },
+            {
+                "name": "Sazova Parkı",
+                "info": "Sazova Parkı, Eskişehir'in en büyük parklarından biridir. Masal şatosu, hayvanat bahçesi ve lunapark gibi birçok aktiviteye ev sahipliği yapar.",
+                "image": "/images/sazova-parki.jpg"
+            },
+            {
+                "name": "Eskişehir Lületaşı Müzesi",
+                "info": "Lületaşı, Eskişehir'in simgelerinden biridir. Bu müzede lületaşıyla ilgili bilgilere ve eserlere yer verilir. Eşsiz takılar ve objeler görülebilir.",
+                "image": "/images/eskisehir-luletasi-muzesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Gaziantep",
+        "info": "Gaziantep, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde bulunan tarihi ve kültürel bir şehirdir. Gastronomi şehri olarak bilinir ve zengin mutfak kültürüyle ünlüdür.",
+        "image-1": "/images/gaziantep-1.jpg",
+        "image-2": "/images/gaziantep-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Gaziantep Kalesi",
+                "info": "Gaziantep Kalesi, şehrin tarihinde önemli bir yere sahiptir. Tarihi dokusunu koruyan kale, şehre yüksek bir noktadan hakim bir konumdadır.",
+                "image": "/images/gaziantep-kalesi.jpg"
+            },
+            {
+                "name": "Zeugma Mozaik Müzesi",
+                "info": "Zeugma Mozaik Müzesi, Gaziantep'in önemli turistik mekanlarından biridir. Antik kent Zeugma'dan çıkarılan mozaiklerin sergilendiği bir müzedir.",
+                "image": "/images/zeugma-mozaik-muzesi.jpg"
+            },
+            {
+                "name": "Bakırcılar Çarşısı",
+                "info": "Bakırcılar Çarşısı, Gaziantep'in tarihi çarşılarından biridir. Bakır işlemeciliğiyle ünlü olan çarşı, geleneksel el sanatlarının yaşatıldığı önemli bir noktadır.",
+                "image": "/images/bakircilar-carsisi.jpg"
+            },
+            {
+                "name": "Gaziantep Oyun ve Oyuncak Müzesi",
+                "info": "Gaziantep Oyun ve Oyuncak Müzesi, Türkiye'nin ilk oyuncak müzesidir. Zengin koleksiyonuyla dikkat çeker ve çocuklar için eğlenceli bir ziyaret noktasıdır.",
+                "image": "/images/gaziantep-oyun-ve-oyuncak-muzesi.jpg"
+            },
+            {
+                "name": "Taşhan",
+                "info": "Taşhan, Gaziantep'in tarihi yapılarından biridir. Restorasyon çalışmalarıyla yenilenen yapı, çeşitli kültürel etkinliklere ev sahipliği yapar.",
+                "image": "/images/tashan.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Giresun",
+        "info": "Giresun, Türkiye'nin Karadeniz Bölgesi'nde yer alan doğal güzellikleriyle ünlü bir şehirdir. Doğal limanı ve fındık üretimiyle bilinir.",
+        "image-1": "/images/giresun-1.jpg",
+        "image-2": "/images/giresun-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Giresun Adası",
+                "info": "Giresun Adası, şehrin sembollerinden biridir. Tarihi ve doğal güzelliklere sahip olan ada, ziyaretçiler için popüler bir turistik noktadır.",
+                "image": "/images/giresun-adasi.jpg"
+            },
+            {
+                "name": "Giresun Kalesi",
+                "info": "Giresun Kalesi, şehrin tarihini yansıtan önemli bir yapıdır. Karadeniz'e hakim konumuyla dikkat çeker ve ziyaretçilerin ilgisini çeker.",
+                "image": "/images/giresun-kalesi.jpg"
+            },
+            {
+                "name": "Giresun Yat Limanı",
+                "info": "Giresun Yat Limanı, şehrin canlı bir noktasıdır. Deniz manzarası eşliğinde yürüyüş yapmak ve deniz ürünleri restoranlarında lezzetli yemekler denemek için idealdir.",
+                "image": "/images/giresun-yat-limani.jpg"
+            },
+            {
+                "name": "Giresun Müzesi",
+                "info": "Giresun Müzesi, bölgedeki arkeolojik ve etnografik eserlerin sergilendiği bir müzedir. Şehrin tarihini ve kültürünü tanımak için ziyaret edilebilir.",
+                "image": "/images/giresun-muzesi.jpg"
+            },
+            {
+                "name": "Çakrak Yaylası",
+                "info": "Çakrak Yaylası, Giresun'un doğal güzelliklerinden biridir. Yayla turizmi için ideal olan bu bölge, temiz havası ve doğal yaşamıyla ziyaretçileri cezbeder.",
+                "image": "/images/cakrak-yaylasi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Gümüşhane",
+        "info": "Gümüşhane, Türkiye'nin Karadeniz Bölgesi'nde yer alan doğal güzellikleriyle ünlü bir şehirdir. Madenleri ve doğal peyzajlarıyla dikkat çeker.",
+        "image-1": "/images/gumushane-1.jpg",
+        "image-2": "/images/gumushane-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Sümela Manastırı",
+                "info": "Sümela Manastırı, Gümüşhane'nin en ünlü turistik noktalarından biridir. Dağın yamacına oyulmuş olan manastır, tarihi ve dini öneme sahiptir.",
+                "image": "/images/sumela-manastiri.jpg"
+            },
+            {
+                "name": "Torul Kalesi",
+                "info": "Torul Kalesi, şehrin tarihini yansıtan önemli bir yapıdır. Ortaçağ'dan kalma bu kale, Gümüşhane'nin simgelerinden biridir.",
+                "image": "/images/torul-kalesi.jpg"
+            },
+            {
+                "name": "Karaca Mağarası",
+                "info": "Karaca Mağarası, doğal güzellikleriyle ünlü bir mağaradır. Şehir merkezine yakın konumda bulunan mağara, ziyaretçilere doğal bir keşif imkanı sunar.",
+                "image": "/images/karaca-magarasi.jpg"
+            },
+            {
+                "name": "Kürtün Şelalesi",
+                "info": "Kürtün Şelalesi, şehrin doğal güzelliklerinden biridir. Ormanlık bir alanda bulunan şelale, serinlemek ve doğanın tadını çıkarmak için ideal bir noktadır.",
+                "image": "/images/kurtun-selalesi.jpg"
+            },
+            {
+                "name": "Kürtün Yaylası",
+                "info": "Kürtün Yaylası, Gümüşhane'nin doğal güzelliklerinden biridir. Yemyeşil doğası ve temiz havasıyla ziyaretçileri cezbeder. Yayla turizmi için popüler bir destinasyondur.",
+                "image": "/images/kurtun-yaylasi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Hakkari",
+        "info": "Hakkari, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan bir il merkezi ve şehirdir. Dağlık ve engebeli coğrafyasıyla dikkat çeker.",
+        "image-1": "/images/hakkari-1.jpg",
+        "image-2": "/images/hakkari-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Cilo Dağı",
+                "info": "Cilo Dağı, Hakkari'nin en yüksek dağlarından biridir. Doğa sporları için ideal bir bölgedir ve muhteşem manzaralara sahiptir.",
+                "image": "/images/cilo-dagi.jpg"
+            },
+            {
+                "name": "Munzur Vadisi Milli Parkı",
+                "info": "Munzur Vadisi Milli Parkı, Hakkari'nin doğal güzelliklerinden biridir. Zengin flora ve fauna çeşitliliğiyle dikkat çeker ve doğa yürüyüşleri için idealdir.",
+                "image": "/images/munzur-vadisi-milli-parki.jpg"
+            },
+            {
+                "name": "Kırık Köprü",
+                "info": "Kırık Köprü, tarihi ve mimari açıdan önemli bir yapıdır. Hakkari'nin simgelerinden biri olan bu köprü, tarih boyunca bölgenin önemli geçiş noktalarından biri olmuştur.",
+                "image": "/images/kirik-kopru.jpg"
+            },
+            {
+                "name": "Geliyê Bazîd Manastırı",
+                "info": "Geliyê Bazîd Manastırı, bölgedeki önemli dini yapılarından biridir. Tarihi ve kültürel açıdan öneme sahip olan bu manastır, ziyaret edilmeye değer.",
+                "image": "/images/geliye-bazid-manastiri.jpg"
+            },
+            {
+                "name": "Şemdinli Kayak Merkezi",
+                "info": "Şemdinli Kayak Merkezi, kış sporları tutkunları için ideal bir destinasyondur. Kar kalitesi ve doğal güzellikleriyle ön plana çıkar.",
+                "image": "/images/semdinli-kayak-merkezi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Hatay",
+        "info": "Hatay, Türkiye'nin Akdeniz Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Farklı kültürlerin bir arada yaşadığı bir coğrafyadır.",
+        "image-1": "/images/hatay-1.jpg",
+        "image-2": "/images/hatay-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Antakya Müzesi",
+                "info": "Antakya Müzesi, Hatay'ın en önemli müzelerindendir. Antik döneme ait eserlerin sergilendiği müze, zengin bir arkeolojik mirasa ev sahipliği yapar.",
+                "image": "/images/antakya-muzesi.jpg"
+            },
+            {
+                "name": "St. Pierre Kilisesi",
+                "info": "St. Pierre Kilisesi, dünyanın en eski kiliselerinden biridir. Hristiyanlık tarihinde önemli bir yere sahiptir ve dini turizm açısından önemlidir.",
+                "image": "/images/st-pierre-kilisesi.jpg"
+            },
+            {
+                "name": "Titus Tüneli",
+                "info": "Titus Tüneli, Roma dönemine ait tarihi bir su kemeridir. Mühendislik açısından önemli bir yapı olup, ziyaretçiler tarafından ilgiyle gezilmektedir.",
+                "image": "/images/titus-tuneli.jpg"
+            },
+            {
+                "name": "Vakıflı Köyü",
+                "info": "Vakıflı Köyü, Türkiye'nin son Ermeni köyüdür. Kültürel çeşitliliği ve doğal güzellikleriyle ünlü olan köy, tarihi dokusunu koruyan önemli bir yerdir.",
+                "image": "/images/vakifli-koyu.jpg"
+            },
+            {
+                "name": "Harbiye Şelaleleri",
+                "info": "Harbiye Şelaleleri, Antakya'nın doğal güzelliklerinden biridir. Ormanlık bir alanda yer alan şelaleler, ziyaretçilere huzurlu bir doğa deneyimi sunar.",
+                "image": "/images/harbiye-selaleleri.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Iğdır",
+        "info": "Iğdır, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan bir ildir. Tarım ve hayvancılık önemli geçim kaynaklarındandır.",
+        "image-1": "/images/igdir-1.jpg",
+        "image-2": "/images/igdir-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Tuzluca Kaplıcaları",
+                "info": "Tuzluca Kaplıcaları, Iğdır'ın Tuzluca ilçesinde bulunan doğal termal kaynaklardır. Termal turizm için önemli bir merkezdir.",
+                "image": "/images/tuzluca-kaplicalari.jpg"
+            },
+            {
+                "name": "Aralık Savaş Meydanı ve Şehitliği",
+                "info": "Aralık Savaş Meydanı ve Şehitliği, Iğdır'ın Aralık ilçesinde bulunan tarihi bir alandır. Türk-Rus savaşları sırasında yaşanan çatışmalara tanıklık etmiştir.",
+                "image": "/images/aralik-savas-meydani.jpg"
+            },
+            {
+                "name": "Ağrı Dağı",
+                "info": "Ağrı Dağı, Iğdır sınırları içinde yer alan ve Türkiye'nin en yüksek dağıdır. Dağcılık ve trekking için popüler bir destinasyondur.",
+                "image": "/images/agri-dagi.jpg"
+            },
+            {
+                "name": "Tuzluca Kalesi",
+                "info": "Tuzluca Kalesi, Tuzluca ilçesinde bulunan tarihi bir kale yapısıdır. Tarih boyunca stratejik bir öneme sahiptir.",
+                "image": "/images/tuzluca-kalesi.jpg"
+            },
+            {
+                "name": "Hoşhaber Kaplıcaları",
+                "info": "Hoşhaber Kaplıcaları, Iğdır'ın Tuzluca ilçesinde yer alan doğal termal kaynaklardır. Sağlık turizmi için tercih edilir.",
+                "image": "/images/hoshaber-kaplicalari.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Isparta",
+        "info": "Isparta, Türkiye'nin Akdeniz Bölgesi'nde bulunan bir ildir. Gölü, doğal güzellikleri ve lavanta tarlalarıyla ünlüdür.",
+        "image-1": "/images/isparta-1.jpg",
+        "image-2": "/images/isparta-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Gölcük Tabiat Parkı",
+                "info": "Gölcük Tabiat Parkı, Isparta'nın en ünlü doğal güzelliklerinden biridir. Gölcük Gölü'nün çevresinde yer alır ve doğa yürüyüşleri, piknik ve kamp için popüler bir destinasyondur.",
+                "image": "/images/golcuk-tabiat-parki.jpg"
+            },
+            {
+                "name": "Eğirdir Gölü",
+                "info": "Eğirdir Gölü, Isparta'nın en büyük gölüdür. Hem doğal güzellikleri hem de balıkçılık ve su sporları için ideal bir yerdir.",
+                "image": "/images/egirdir-golu.jpg"
+            },
+            {
+                "name": "Lavanta Tarlaları",
+                "info": "Isparta, Türkiye'nin en büyük lavanta üreticisi şehri olup, lavanta tarlalarıyla ünlüdür. Lavanta hasatı döneminde görülmesi gereken yerler arasındadır.",
+                "image": "/images/lavanta-tarlalari.jpg"
+            },
+            {
+                "name": "Yalvaç Müzesi",
+                "info": "Yalvaç Müzesi, Isparta'nın Yalvaç ilçesinde bulunan bir arkeoloji müzesidir. Frigya ve Lidya dönemlerine ait eserlerin sergilendiği müze, tarihi ve kültürel mirası keşfetmek isteyenler için önemli bir duraktır.",
+                "image": "/images/yalvac-muzesi.jpg"
+            },
+            {
+                "name": "Atabey Gazi Camii",
+                "info": "Atabey Gazi Camii, Isparta'nın en önemli tarihi yapılarından biridir. Selçuklu döneminden kalma cami, mimari açıdan büyük öneme sahiptir.",
+                "image": "/images/atabey-gazi-camii.jpg"
+            }
+        ]
+    },
+    {
+        "name": "İstanbul",
+        "info": "İstanbul, Türkiye'nin en kalabalık ve en popüler şehridir. Hem tarihi hem de modern dokusuyla dikkat çeker.",
+        "image-1": "/images/istanbul-1.jpg",
+        "image-2": "/images/istanbul-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Ayasofya Müzesi",
+                "info": "Ayasofya Müzesi, Bizans döneminde kilise olarak inşa edilmiş, ardından Osmanlı döneminde camiye çevrilmiş ve günümüzde müze olarak kullanılan tarihi bir yapıdır.",
+                "image": "/images/ayasofya.jpg"
+            },
+            {
+                "name": "Topkapı Sarayı",
+                "info": "Topkapı Sarayı, Osmanlı İmparatorluğu'nun 15. yüzyıldan 19. yüzyıla kadar resmi ve siyasi merkezi olmuş saray kompleksidir. Zengin bir tarih ve kültürel mirasa sahiptir.",
+                "image": "/images/topkapi-sarayi.jpg"
+            },
+            {
+                "name": "Boğaz Turu",
+                "info": "İstanbul Boğazı'nı gezmek, şehrin eşsiz manzarasını keşfetmek için harika bir yoldur. Dolmabahçe Sarayı, Kız Kulesi ve Galata Köprüsü gibi önemli noktaları görebilirsiniz.",
+                "image": "/images/bogaz-turu.jpg"
+            },
+            {
+                "name": "Kapalıçarşı",
+                "info": "Kapalıçarşı, dünyanın en eski ve en büyük kapalı çarşılarından biridir. İstanbul'un tarihi ve ticari merkezlerinden biridir ve binlerce dükkanı barındırır.",
+                "image": "/images/kapalicarsi.jpg"
+            },
+            {
+                "name": "Sultanahmet Camii",
+                "info": "Sultanahmet Camii, İstanbul'un en ikonik yapılarından biridir. Mavi Çini Camii olarak da bilinir ve muhteşem iç dekorasyonuyla ünlüdür.",
+                "image": "/images/sultanahmet-camii.jpg"
+            }
+        ]
+    },
+    {
+        "name": "İzmir",
+        "info": "İzmir, Türkiye'nin batısında, Ege Denizi kıyısında yer alan bir şehirdir. Tarih boyunca önemli bir liman ve ticaret merkezi olmuştur.",
+        "image-1": "/images/izmir-1.jpg",
+        "image-2": "/images/izmir-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Saat Kulesi",
+                "info": "İzmir'in sembolü haline gelmiş olan Saat Kulesi, Konak Meydanı'nda yer alır ve şehrin en popüler turistik noktalarından biridir.",
+                "image": "/images/saat-kulesi.jpg"
+            },
+            {
+                "name": "Kadifekale",
+                "info": "Kadifekale, İzmir'in tarihini yansıtan önemli bir yapıdır. Antik dönemden kalma bir kale ve buradan şehrin panoramik manzarasını görebilirsiniz.",
+                "image": "/images/kadifekale.jpg"
+            },
+            {
+                "name": "Alsancak",
+                "info": "Alsancak, İzmir'in en canlı semtlerinden biridir. Burada birçok restoran, kafe, bar ve mağaza bulunur. Ayrıca sahil boyunca güzel bir yürüyüş yapabilirsiniz.",
+                "image": "/images/alsancak.jpg"
+            },
+            {
+                "name": "Kordon",
+                "info": "İzmir'in ünlü Kordon boyunda yürüyüş yapmak, Ege Denizi'nin keyfini çıkarmak için harika bir aktivitedir. Ayrıca burada bulunan parklarda dinlenebilirsiniz.",
+                "image": "/images/kordon.jpg"
+            },
+            {
+                "name": "Efes Antik Kenti",
+                "info": "İzmir'in yakınlarında bulunan Efes Antik Kenti, UNESCO Dünya Mirası Listesi'nde yer alan önemli bir tarihi alan. Büyük bir Roma şehri olarak bilinir.",
+                "image": "/images/efes-antik-kent.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kahramanmaraş",
+        "info": "Kahramanmaraş, Türkiye'nin Akdeniz Bölgesi'nde yer alan bir şehirdir. Doğal güzellikleri, tarihi ve kültürel zenginlikleriyle dikkat çeker.",
+        "image-1": "/images/kahramanmaras-1.jpg",
+        "image-2": "/images/kahramanmaras-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Kahramanmaraş Kalesi",
+                "info": "Kahramanmaraş Kalesi, şehrin tarihini yansıtan önemli bir yapıdır. Ortaçağ'dan kalma bu kaleyi ziyaret ederek şehrin panoramik manzarasını görebilirsiniz.",
+                "image": "/images/kahramanmaras-kalesi.jpg"
+            },
+            {
+                "name": "Ceyhan Nehri",
+                "info": "Ceyhan Nehri, Kahramanmaraş'ın önemli doğal güzelliklerinden biridir. Nehir kenarında piknik yapabilir, doğa yürüyüşleri yapabilirsiniz.",
+                "image": "/images/ceyhan-nehri.jpg"
+            },
+            {
+                "name": "Arsemia Antik Kenti",
+                "info": "Arsemia Antik Kenti, Kahramanmaraş'ın tarihi miraslarından biridir. Kommagene Krallığı dönemine ait kalıntılar burada bulunur.",
+                "image": "/images/arsemia-antik-kenti.jpg"
+            },
+            {
+                "name": "Göksun Yaylası",
+                "info": "Göksun Yaylası, şehrin doğal güzelliklerinden biridir. Yayla turizmi açısından önemlidir ve yaz aylarında serinlemek için ideal bir mekandır.",
+                "image": "/images/goksun-yaylasi.jpg"
+            },
+            {
+                "name": "Kapıçam Tabiat Parkı",
+                "info": "Kapıçam Tabiat Parkı, Kahramanmaraş'ın doğal güzelliklerini korumak amacıyla oluşturulmuş bir tabiat parkıdır. Burada doğa yürüyüşleri yapabilirsiniz.",
+                "image": "/images/kapicam-tabiat-parki.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Karabük",
+        "info": "Karabük, Türkiye'nin Karadeniz Bölgesi'nde yer alan bir şehirdir. Demir ve çelik endüstrisiyle ön plana çıkan bir sanayi şehridir.",
+        "image-1": "/images/karabuk-1.jpg",
+        "image-2": "/images/karabuk-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Safranbolu Evleri",
+                "info": "Safranbolu Evleri, Osmanlı döneminden kalma geleneksel Türk evleridir. UNESCO Dünya Mirası Listesi'nde yer alır ve şehrin sembollerindendir.",
+                "image": "/images/safranbolu-evleri.jpg"
+            },
+            {
+                "name": "Safranbolu Çarşısı",
+                "info": "Safranbolu Çarşısı, şehrin tarihi ve kültürel dokusunu yansıtan önemli bir yerdir. Burada geleneksel el sanatları ürünleri ve hediyelik eşyalar bulabilirsiniz.",
+                "image": "/images/safranbolu-carsisi.jpg"
+            },
+            {
+                "name": "Karabük Safranbolu Demiryolu",
+                "info": "Karabük Safranbolu Demiryolu, Osmanlı döneminde inşa edilmiş tarihi bir demiryoludur. Tarihi ve doğal güzelliklerin bir arada olduğu güzel bir rotadır.",
+                "image": "/images/karabuk-safranbolu-demiryolu.jpg"
+            },
+            {
+                "name": "Karabük Kent Müzesi",
+                "info": "Karabük Kent Müzesi, şehrin tarihini ve kültürünü tanıtan önemli bir müzedir. Burada eski dönemlere ait birçok eser sergilenir.",
+                "image": "/images/karabuk-kent-muzesi.jpg"
+            },
+            {
+                "name": "Saat Kulesi",
+                "info": "Karabük'teki Saat Kulesi, şehrin simgelerinden biridir. Tarihi bir yapı olan saat kulesi, şehrin merkezinde bulunur.",
+                "image": "/images/karabuk-saat-kulesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Karaman",
+        "info": "Karaman, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir şehirdir. Tarih boyunca pek çok medeniyete ev sahipliği yapmış önemli bir kültürel mirasa sahiptir.",
+        "image-1": "/images/karaman-1.jpg",
+        "image-2": "/images/karaman-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Karaman Kalesi",
+                "info": "Karaman Kalesi, şehrin merkezinde yer alan tarihi bir kaledir. Selçuklu döneminden kalma bu kale, şehrin simgelerinden biridir.",
+                "image": "/images/karaman-kalesi.jpg"
+            },
+            {
+                "name": "Karaman Müzesi",
+                "info": "Karaman Müzesi, bölgedeki arkeolojik eserlerin sergilendiği bir müzedir. Hitit, Frig, Roma ve Bizans dönemlerine ait eserler burada bulunur.",
+                "image": "/images/karaman-muzesi.jpg"
+            },
+            {
+                "name": "Aktekke Camii",
+                "info": "Aktekke Camii, Karaman'ın tarihi yapılarından biridir. 13. yüzyılda inşa edilen bu cami, dönemin mimari özelliklerini yansıtır.",
+                "image": "/images/aktekke-camii.jpg"
+            },
+            {
+                "name": "Ermenek Barajı",
+                "info": "Ermenek Barajı, şehrin doğal güzelliklerinden biridir. Görsel açıdan etkileyici olan bu baraj, aynı zamanda piknik ve doğa yürüyüşleri için popüler bir yerdir.",
+                "image": "/images/ermenek-baraji.jpg"
+            },
+            {
+                "name": "Hilton Tepe",
+                "info": "Hilton Tepe, Karaman'ın panoramik manzarasını sunan bir tepedir. Şehrin yüksek noktasında bulunan bu tepeden şehri seyretmek oldukça etkileyicidir.",
+                "image": "/images/hilton-tepe.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kars",
+        "info": "Kars, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan bir şehirdir. Zengin tarihi ve kültürel mirasıyla bilinir ve doğal güzellikleriyle de dikkat çeker.",
+        "image-1": "/images/kars-1.jpg",
+        "image-2": "/images/kars-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Ani Harabeleri",
+                "info": "Ani Harabeleri, UNESCO Dünya Mirası Listesi'nde yer alan tarihi bir bölgedir. Orta Çağ'da önemli bir merkez olan Ani'den günümüze kalan kalıntılar burada bulunur.",
+                "image": "/images/ani-harabeleri.jpg"
+            },
+            {
+                "name": "Kars Kalesi",
+                "info": "Kars Kalesi, şehrin simgelerinden biridir. Selçuklu döneminden kalan bu kale, şehrin tarihini yansıtır ve ziyaretçiler için önemli bir turistik noktadır.",
+                "image": "/images/kars-kalesi.jpg"
+            },
+            {
+                "name": "Katerina Manastırı",
+                "info": "Katerina Manastırı, şehrin önemli tarihi yapılarından biridir. 930 yılında inşa edilen bu manastır, Ermeni mimarisinin önemli örneklerinden biridir.",
+                "image": "/images/katerina-manastiri.jpg"
+            },
+            {
+                "name": "Sarıkamış Kayak Merkezi",
+                "info": "Sarıkamış Kayak Merkezi, Kars'ın doğal güzelliklerinden biridir. Kış sporları için ideal bir alan olan bu kayak merkezi, her yıl pek çok ziyaretçi çeker.",
+                "image": "/images/sarikamis-kayak-merkezi.jpg"
+            },
+            {
+                "name": "Taş Köprü",
+                "info": "Taş Köprü, Kars'ın tarihi yapılarından biridir. 10. yüzyılda inşa edilen bu köprü, Kars Çayı üzerinde bulunur ve şehrin sembollerinden biridir.",
+                "image": "/images/tas-kopru.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kastamonu",
+        "info": "Kastamonu, Türkiye'nin Karadeniz Bölgesi'nde bulunan bir şehirdir. Doğal güzellikleri, tarihi yapıları ve yöresel kültürüyle ön plana çıkar.",
+        "image-1": "/images/kastamonu-1.jpg",
+        "image-2": "/images/kastamonu-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Kastamonu Kalesi",
+                "info": "Kastamonu Kalesi, şehrin en önemli tarihi yapılarından biridir. Bizans döneminden kalan bu kale, şehrin tarihini yansıtır.",
+                "image": "/images/kastamonu-kalesi.jpg"
+            },
+            {
+                "name": "Taş Mektep",
+                "info": "Taş Mektep, Osmanlı döneminden kalan tarihi bir eğitim binasıdır. İçindeki tarihi eserler ve mimarisiyle önemli bir turistik noktadır.",
+                "image": "/images/tas-mektep.jpg"
+            },
+            {
+                "name": "Nasrullah Camii",
+                "info": "Nasrullah Camii, Kastamonu'nun en eski camilerinden biridir. Selçuklu döneminden kalma bu camii, şehrin tarihini yansıtır.",
+                "image": "/images/nasrullah-camii.jpg"
+            },
+            {
+                "name": "Kastamonu Arkeoloji Müzesi",
+                "info": "Kastamonu Arkeoloji Müzesi, bölgedeki arkeolojik eserlerin sergilendiği bir müzedir. Hitit, Frig, Roma ve Bizans dönemlerine ait eserler bulunur.",
+                "image": "/images/kastamonu-arkeoloji-muzesi.jpg"
+            },
+            {
+                "name": "İnebolu",
+                "info": "İnebolu, Kastamonu'nun Karadeniz sahilinde yer alan bir ilçesidir. Korunmuş tarihi dokusu ve doğal güzellikleriyle dikkat çeker.",
+                "image": "/images/inebolu.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kayseri",
+        "info": "Kayseri, Türkiye'nin İç Anadolu Bölgesi'nde bulunan bir şehirdir. Tarihi ve kültürel zenginlikleriyle ön plana çıkar.",
+        "image-1": "/images/kayseri-1.jpg",
+        "image-2": "/images/kayseri-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Kayseri Kalesi",
+                "info": "Kayseri Kalesi, şehrin merkezinde yer alan tarihi bir kale kompleksidir. Selçuklu ve Osmanlı dönemlerinden kalma yapılardan oluşur.",
+                "image": "/images/kayseri-kalesi.jpg"
+            },
+            {
+                "name": "Erciyes Dağı",
+                "info": "Erciyes Dağı, Kayseri'nin sembolüdür. Kış turizmi için önemli bir merkez olan bu dağ, doğal güzellikleriyle de dikkat çeker.",
+                "image": "/images/erciyes-dagi.jpg"
+            },
+            {
+                "name": "Hunat Hatun Külliyesi",
+                "info": "Hunat Hatun Külliyesi, Osmanlı döneminden kalan bir külliye kompleksidir. Cami, medrese, türbe ve hamamdan oluşur.",
+                "image": "/images/hunat-hatun-kulliyesi.jpg"
+            },
+            {
+                "name": "Mevlana Türbesi",
+                "info": "Mevlana Türbesi, şehrin en önemli dini ve turistik mekanlarından biridir. Mevlana Celaleddin Rumi'nin türbesi buradadır.",
+                "image": "/images/mevlana-turbesi.jpg"
+            },
+            {
+                "name": "Seljuk Eğitim ve Araştırma Hastanesi Müzesi",
+                "info": "Seljuk Eğitim ve Araştırma Hastanesi Müzesi, Selçuklu döneminden kalma bir hastanenin restore edilmiş hali olarak hizmet verir.",
+                "image": "/images/seljuk-hastanesi-muzesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kırıkkale",
+        "info": "Kırıkkale, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir şehirdir. Endüstriyel bir şehir olmasının yanı sıra, doğal güzellikleri de barındırır.",
+        "image-1": "/images/kirikkale-1.jpg",
+        "image-2": "/images/kirikkale-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Keskin Kalesi",
+                "info": "Keskin Kalesi, tarihi geçmişiyle dikkat çeken bir yapıdır. Keskin ilçesinde yer alır ve tarihi dokusunu korur.",
+                "image": "/images/keskin-kalesi.jpg"
+            },
+            {
+                "name": "Karakeçili Tabiat Parkı",
+                "info": "Karakeçili Tabiat Parkı, Kırıkkale'nin doğal güzelliklerinden biridir. Ormanlık alanı ve doğal göletleriyle ziyaretçilerini cezbeder.",
+                "image": "/images/karakecili-tabiat-parki.jpg"
+            },
+            {
+                "name": "Delice Kanyonu",
+                "info": "Delice Kanyonu, şehrin doğal güzelliklerinden biridir. Delice ilçesinde bulunan bu kanyon, doğa sporları için ideal bir alandır.",
+                "image": "/images/delice-kanyonu.jpg"
+            },
+            {
+                "name": "Çelebi Mehmet Türbesi",
+                "info": "Çelebi Mehmet Türbesi, tarihi öneme sahip bir yapıdır. Kırıkkale'nin tarihi geçmişine ışık tutar.",
+                "image": "/images/celebi-mehmet-turbesi.jpg"
+            },
+            {
+                "name": "Kırıkkale Kent Müzesi",
+                "info": "Kırıkkale Kent Müzesi, şehrin kültürel mirasını sergileyen önemli bir müzedir. Ziyaretçilere tarihi ve kültürel bir yolculuk sunar.",
+                "image": "/images/kirikkale-kent-muzesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kırklareli",
+        "info": "Kırklareli, Türkiye'nin Trakya Bölgesi'nde yer alan bir şehirdir. Tarihî ve kültürel açıdan zengin bir geçmişe sahiptir.",
+        "image-1": "/images/kirklareli-1.jpg",
+        "image-2": "/images/kirklareli-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Kırklareli Kalesi",
+                "info": "Kırklareli Kalesi, şehrin sembollerinden biridir. Tarihi dokusuyla ziyaretçilerini etkiler.",
+                "image": "/images/kirklareli-kalesi.jpg"
+            },
+            {
+                "name": "Vize Kalesi",
+                "info": "Vize Kalesi, Bizans dönemine ait bir kaledir. Tarihî ve mimari açıdan önemli bir yapıdır.",
+                "image": "/images/vize-kalesi.jpg"
+            },
+            {
+                "name": "Babaeski Etnografya Müzesi",
+                "info": "Babaeski Etnografya Müzesi, bölgenin kültürel mirasını sergileyen bir müzedir. Ziyaret edilmesi önerilir.",
+                "image": "/images/babaeski-etnografya-muzesi.jpg"
+            },
+            {
+                "name": "Dupnisa Mağarası",
+                "info": "Dupnisa Mağarası, doğa severler için önemli bir doğa harikasıdır. Mağara turizmi açısından popülerdir.",
+                "image": "/images/dupnisa-magarasi.jpg"
+            },
+            {
+                "name": "Kazandere Tabiat Parkı",
+                "info": "Kazandere Tabiat Parkı, piknik ve doğa yürüyüşleri için ideal bir destinasyondur. Doğal güzellikleriyle dikkat çeker.",
+                "image": "/images/kazandere-tabiat-parki.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kırşehir",
+        "info": "Kırşehir, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir şehirdir. Tarihî ve kültürel açıdan zengin bir geçmişe sahiptir.",
+        "image-1": "/images/kirsehir-1.jpg",
+        "image-2": "/images/kirsehir-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Kaman Kalehöyük",
+                "info": "Kaman Kalehöyük, Kırşehir'in önemli tarihî bölgelerinden biridir. Arkeolojik kazılar yapılmaktadır.",
+                "image": "/images/kaman-kalehoyuk.jpg"
+            },
+            {
+                "name": "Cacabey Medresesi",
+                "info": "Cacabey Medresesi, Selçuklu dönemine ait önemli bir yapıdır. Mimari açıdan dikkat çeker.",
+                "image": "/images/cacabey-medresesi.jpg"
+            },
+            {
+                "name": "Çiçekli Köyü",
+                "info": "Çiçekli Köyü, lavanta tarlalarıyla ünlüdür. Doğal güzellikleriyle ziyaretçilerini büyüler.",
+                "image": "/images/cicekli-koyu.jpg"
+            },
+            {
+                "name": "Mucur Aşıklar Anıtı",
+                "info": "Mucur Aşıklar Anıtı, halk edebiyatına olan katkıları nedeniyle önemlidir. Şairlerin ve aşıkların uğrak noktasıdır.",
+                "image": "/images/mucur-asiklar-aniti.jpg"
+            },
+            {
+                "name": "Balıklı Köy",
+                "info": "Balıklı Köy, balıklı göletiyle ünlüdür. Doğal güzellikleri ve sakin atmosferiyle bilinir.",
+                "image": "/images/balikli-koy.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kilis",
+        "info": "Kilis, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde bulunan bir il merkezi şehridir. Suriye sınırına yakınlığıyla bilinir.",
+        "image-1": "/images/kilis-1.jpg",
+        "image-2": "/images/kilis-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Kilis Kalesi",
+                "info": "Kilis Kalesi, şehrin tarihi merkezinde bulunan önemli bir tarihi yapıdır. Osmanlı dönemine aittir ve şehrin sembollerinden biridir.",
+                "image": "/images/kilis-kalesi.jpg"
+            },
+            {
+                "name": "Kilis Müzesi",
+                "info": "Kilis Müzesi, bölgedeki arkeolojik eserlerin sergilendiği bir müzedir. Çeşitli dönemlere ait eserleri barındırır.",
+                "image": "/images/kilis-muzesi.jpg"
+            },
+            {
+                "name": "Kilis Evi",
+                "info": "Kilis Evi, şehirde bulunan geleneksel bir konut örneğidir. Osmanlı mimarisiyle yapılmıştır ve ziyaretçilere tarihi bir deneyim sunar.",
+                "image": "/images/kilis-evi.jpg"
+            },
+            {
+                "name": "Ulu Cami",
+                "info": "Ulu Cami, Kilis'in en büyük camisidir. Osmanlı dönemine aittir ve şehrin dini ve kültürel hayatının önemli bir parçasıdır.",
+                "image": "/images/ulu-cami.jpg"
+            },
+            {
+                "name": "Kilis Antik Kenti",
+                "info": "Kilis Antik Kenti, şehrin yakınlarında bulunan tarihi bir antik kenttir. Roma ve Bizans dönemlerine ait kalıntılar burada bulunmuştur.",
+                "image": "/images/kilis-antik-kenti.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kocaeli",
+        "info": "Kocaeli, Türkiye'nin Marmara Bölgesi'nde yer alan bir şehirdir. Sanayi ve ticaret açısından önemli bir konuma sahiptir.",
+        "image-1": "/images/kocaeli-1.jpg",
+        "image-2": "/images/kocaeli-2.jpg",
+        "gorulecek": [
+            {
+                "name": "İzmit Saat Kulesi",
+                "info": "İzmit Saat Kulesi, kentin sembollerinden biridir. Tarihi dokusuyla dikkat çeker.",
+                "image": "/images/izmit-saat-kulesi.jpg"
+            },
+            {
+                "name": "Hereke Halı Müzesi",
+                "info": "Hereke Halı Müzesi, halı dokumacılığıyla ünlü Hereke'de yer alır. Zengin halı koleksiyonlarına ev sahipliği yapar.",
+                "image": "/images/hereke-hali-muzesi.jpg"
+            },
+            {
+                "name": "Gebze Kent Ormanı",
+                "info": "Gebze Kent Ormanı, doğal güzellikleriyle ziyaretçilerine dinlenme ve piknik imkanı sunar.",
+                "image": "/images/gebze-kent-ormani.jpg"
+            },
+            {
+                "name": "Maşukiye",
+                "info": "Maşukiye, doğal güzellikleri ve yaylalarıyla ünlüdür. Hafta sonları ziyaretçi akınına uğrar.",
+                "image": "/images/masukiye.jpg"
+            },
+            {
+                "name": "Dilovası Sahili",
+                "info": "Dilovası Sahili, denize girme ve yürüyüş yapma imkanı sunar. Yaz aylarında tercih edilen bir dinlenme noktasıdır.",
+                "image": "/images/dilovasi-sahili.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Konya",
+        "info": "Konya, Türkiye'nin İç Anadolu Bölgesi'nde bulunan büyükşehirlerden biridir. Tarihi ve kültürel mirasıyla ön plana çıkar.",
+        "image-1": "/images/konya-1.jpg",
+        "image-2": "/images/konya-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Mevlana Müzesi",
+                "info": "Mevlana Müzesi, İslam dünyasının önemli alimlerinden Mevlana Celaleddin Rumi'nin türbesidir. Dini ve kültürel öneme sahiptir.",
+                "image": "/images/mevlana-muzesi.jpg"
+            },
+            {
+                "name": "Karatay Medresesi",
+                "info": "Karatay Medresesi, Selçuklu dönemine ait bir medrese olarak yapılmıştır. Şimdi etnografya müzesi olarak kullanılmaktadır.",
+                "image": "/images/karatay-medresesi.jpg"
+            },
+            {
+                "name": "Alaeddin Tepesi",
+                "info": "Alaeddin Tepesi, Konya'nın merkezinde yer alan tarihi bir tepe ve çevresindeki yapılar. Harika bir şehir manzarası sunar.",
+                "image": "/images/alaeddin-tepesi.jpg"
+            },
+            {
+                "name": "Konya Tropikal Kelebek Bahçesi",
+                "info": "Konya Tropikal Kelebek Bahçesi, binlerce farklı türde kelebeği barındıran doğal bir yaşam alanıdır. Ziyaretçilerine benzersiz bir deneyim sunar.",
+                "image": "/images/konya-tropikal-kelebek-bahcesi.jpg"
+            },
+            {
+                "name": "Aya Elenia Kilisesi",
+                "info": "Aya Elenia Kilisesi, Konya'da bulunan tarihi bir kilisedir. Bizans dönemine aittir ve mimari açıdan önemli bir yapıdır.",
+                "image": "/images/aya-elenia-kilisesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kütahya",
+        "info": "Kütahya, Türkiye'nin Ege Bölgesi'nde bulunan bir şehirdir. Tarihi zenginlikleri ve doğal güzellikleriyle ünlüdür. Özellikle çinicilik ve seramik sanatıyla tanınır.",
+        "image-1": "/images/kutahya-1.jpg",
+        "image-2": "/images/kutahya-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Kütahya Kalesi",
+                "info": "Kütahya Kalesi, şehrin tarihi merkezinde yer alan ve Bizans dönemine dayanan bir kale. Tarihi yapı, şehrin panoramik manzarasını sunar ve ziyaretçilere geçmişe doğru bir yolculuk yapma imkanı verir.",
+                "image": "/images/kutahya-kalesi.jpg"
+            },
+            {
+                "name": "Kütahya Çini Müzesi",
+                "info": "Kütahya Çini Müzesi, Türk çiniciliğinin ve Kütahya seramiğinin tarihini ve gelişimini sergileyen önemli bir müzedir. Müze, çeşitli dönemlere ait çini eserlerinin yanı sıra ustalık eserlerine de ev sahipliği yapar.",
+                "image": "/images/kutahya-cini-muzesi.jpg"
+            },
+            {
+                "name": "Frig Vadisi",
+                "info": "Frig Vadisi, Kütahya'nın doğal güzelliklerinden biridir. Vadide yapılan doğa yürüyüşleri, piknik ve kamp etkinlikleriyle ziyaretçilere huzur dolu bir deneyim sunar. Ayrıca vadideki antik kent kalıntıları da tarih meraklıları için ilgi çekicidir.",
+                "image": "/images/frig-vadisi.jpg"
+            },
+            {
+                "name": "Aizanoi Antik Kenti",
+                "info": "Aizanoi Antik Kenti, Kütahya'nın Çavdarhisar ilçesinde bulunan önemli bir arkeolojik alan. Roma döneminden kalma tapınak, tiyatro, stadyum ve hamam gibi yapıları içerir.",
+                "image": "/images/aizanoi-antik-kenti.jpg"
+            },
+            {
+                "name": "Simav Kaplıcaları",
+                "info": "Simav Kaplıcaları, Kütahya'nın Simav ilçesinde bulunan sağlık ve turizm merkezidir. Doğal termal sularıyla ünlüdür ve ziyaretçilere sağlık ve dinlenme imkanı sunar.",
+                "image": "/images/simav-kaplicalari.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Malatya",
+        "info": "Malatya, Türkiye'nin Doğu Anadolu Bölgesi'nde bulunan bir şehirdir. Tarihi ve kültürel mirasıyla ön plana çıkar.",
+        "image-1": "/images/malatya-1.jpg",
+        "image-2": "/images/malatya-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Aslantepe Höyüğü",
+                "info": "Aslantepe Höyüğü, Malatya'nın tarih öncesi dönemlerinden kalma bir höyüktür. Hititler döneminde önemli bir yerleşim merkezi olarak kullanılmıştır.",
+                "image": "/images/aslantepe-hoyugu.jpg"
+            },
+            {
+                "name": "Nemrut Dağı",
+                "info": "Nemrut Dağı, Malatya'nın en önemli turistik mekanlarından biridir. Kommagene Kralı Antiochus tarafından yaptırılan antik mezar anıtı ve heykelleri ile ünlüdür.",
+                "image": "/images/nemrut-dagi.jpg"
+            },
+            {
+                "name": "Malatya Müzesi",
+                "info": "Malatya Müzesi, şehrin tarihini ve kültürel mirasını sergileyen bir müzedir. Arkeolojik eserler, etnografik objeler ve sanat eserlerini içerir.",
+                "image": "/images/malatya-muzesi.jpg"
+            },
+            {
+                "name": "Battalgazi Höyüğü",
+                "info": "Battalgazi Höyüğü, Malatya'nın en eski yerleşim alanlarından biridir. Hititler, Urartular, Romalılar ve Bizanslılar tarafından kullanılmıştır.",
+                "image": "/images/battalgazi-hoyugu.jpg"
+            },
+            {
+                "name": "Yakınca Mağarası",
+                "info": "Yakınca Mağarası, Malatya'nın doğal güzelliklerinden biridir. Mağara içerisindeki sarkıt ve dikitler, ziyaretçilere eşsiz bir görsel şölen sunar.",
+                "image": "/images/yakinca-magarasi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Manisa",
+        "info": "Manisa, Türkiye'nin Ege Bölgesi'nde bulunan bir şehirdir. Tarihi ve doğal güzellikleriyle ünlüdür.",
+        "image-1": "/images/manisa-1.jpg",
+        "image-2": "/images/manisa-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Sardes Antik Kenti",
+                "info": "Sardes Antik Kenti, Manisa'nın Salihli ilçesinde bulunan önemli bir arkeolojik alan. Lidya Krallığı döneminden kalma kalıntıları içerir.",
+                "image": "/images/sardes-antik-kenti.jpg"
+            },
+            {
+                "name": "Spil Dağı Milli Parkı",
+                "info": "Spil Dağı Milli Parkı, Manisa'nın doğal güzelliklerinden biridir. Zengin flora ve fauna çeşitliliğiyle dikkat çeker. Yürüyüş, doğa yürüyüşü ve piknik için ideal bir yerdir.",
+                "image": "/images/spil-dagi-milli-parki.jpg"
+            },
+            {
+                "name": "Manisa Müzesi",
+                "info": "Manisa Müzesi, şehrin tarihini ve kültürel mirasını sergileyen bir müzedir. Arkeolojik eserler, etnografik objeler ve sanat eserlerini içerir.",
+                "image": "/images/manisa-muzesi.jpg"
+            },
+            {
+                "name": "Muradiye Şelalesi",
+                "info": "Muradiye Şelalesi, Manisa'nın Şehzadeler ilçesinde bulunan doğal bir güzelliktir. Şelale, etkileyici bir manzara sunar ve ziyaretçilere serinleme imkanı sağlar.",
+                "image": "/images/muradiye-selalesi.jpg"
+            },
+            {
+                "name": "Magnesia Antik Kenti",
+                "info": "Magnesia Antik Kenti, Manisa'nın Germencik ilçesinde bulunan önemli bir arkeolojik alan. Helenistik döneme ait kalıntıları içerir.",
+                "image": "/images/magnesia-antik-kenti.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Mardin",
+        "info": "Mardin, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde bulunan bir şehirdir. Tarihi ve kültürel zenginlikleriyle ünlüdür.",
+        "image-1": "/images/mardin-1.jpg",
+        "image-2": "/images/mardin-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Mardin Ulu Cami",
+                "info": "Mardin Ulu Cami, şehrin en eski ve en önemli camilerinden biridir. Artuklu dönemine ait mimarisiyle dikkat çeker.",
+                "image": "/images/mardin-ulu-cami.jpg"
+            },
+            {
+                "name": "Deyrulzafaran Manastırı",
+                "info": "Deyrulzafaran Manastırı, Mardin'in Deyrülzafaran köyünde bulunan Süryani Ortodoks manastırıdır. Tarihi ve dini önemiyle ziyaret edilmektedir.",
+                "image": "/images/deyrulzafaran-manastiri.jpg"
+            },
+            {
+                "name": "Mardin Müzesi",
+                "info": "Mardin Müzesi, şehrin tarihini ve kültürel mirasını sergileyen bir müzedir. Arkeolojik eserler, etnografik objeler ve sanat eserlerini içerir.",
+                "image": "/images/mardin-muzesi.jpg"
+            },
+            {
+                "name": "Mardin Kalesi",
+                "info": "Mardin Kalesi, şehrin merkezinde yer alan tarihi bir kale. Ortadoğu'nun en etkileyici kalelerinden biridir ve muhteşem bir manzaraya sahiptir.",
+                "image": "/images/mardin-kalesi.jpg"
+            },
+            {
+                "name": "Zinciriye Medresesi",
+                "info": "Zinciriye Medresesi, Mardin'in tarihi dokusunda yer alan önemli bir yapıdır. Selçuklu dönemine ait olup, mimarisi ve süslemeleriyle dikkat çeker.",
+                "image": "/images/zinciriye-medresesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Mersin",
+        "info": "Mersin, Türkiye'nin Akdeniz Bölgesi'nde bulunan bir şehirdir. Tarihi ve doğal güzellikleriyle ünlüdür.",
+        "image-1": "/images/mersin-1.jpg",
+        "image-2": "/images/mersin-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Silifke Kalesi",
+                "info": "Silifke Kalesi, Mersin'in Silifke ilçesinde bulunan tarihi bir kale. Antik çağlardan beri kullanılmış ve çeşitli medeniyetlere ev sahipliği yapmıştır.",
+                "image": "/images/silifke-kalesi.jpg"
+            },
+            {
+                "name": "Cennet ve Cehennem Mağaraları",
+                "info": "Cennet ve Cehennem Mağaraları, Mersin'in Tarsus ilçesinde bulunan doğal güzelliklerdir. Bu mağaralar, doğa severlerin ilgisini çeken ve ziyaret edilen yerler arasındadır.",
+                "image": "/images/cennet-cehennem-magaralari.jpg"
+            },
+            {
+                "name": "Mersin Arkeoloji Müzesi",
+                "info": "Mersin Arkeoloji Müzesi, şehrin tarihini ve kültürel mirasını sergileyen önemli bir müzedir. Arkeolojik eserler, etnografik objeler ve sanat eserlerini içerir.",
+                "image": "/images/mersin-arkeoloji-muzesi.jpg"
+            },
+            {
+                "name": "Ancient City of Soli",
+                "info": "Ancient City of Soli, Mersin'in Mezitli ilçesinde bulunan antik bir şehirdir. Helenistik dönemden kalma kalıntıları içerir ve tarih meraklılarının ilgisini çeker.",
+                "image": "/images/ancient-city-of-soli.jpg"
+            },
+            {
+                "name": "Tarsus Şelalesi",
+                "info": "Tarsus Şelalesi, Mersin'in Tarsus ilçesinde bulunan doğal bir güzelliktir. Etkileyici manzarasıyla ziyaretçilerin ilgisini çeker ve piknik yapmak için ideal bir yerdir.",
+                "image": "/images/tarsus-selalesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Muğla",
+        "info": "Muğla, Türkiye'nin Ege Bölgesi'nde bulunan bir şehirdir. Tarihi ve doğal güzellikleriyle ünlüdür.",
+        "image-1": "/images/mugla-1.jpg",
+        "image-2": "/images/mugla-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Marmaris Kalesi",
+                "info": "Marmaris Kalesi, Muğla'nın Marmaris ilçesinde bulunan tarihi bir kale. Ege Denizi'ne hakim bir konumda yer alır ve şehrin simgelerinden biridir.",
+                "image": "/images/marmaris-kalesi.jpg"
+            },
+            {
+                "name": "Ölüdeniz",
+                "info": "Ölüdeniz, Muğla'nın Fethiye ilçesinde bulunan ünlü bir turistik beldedir. Kristal berraklığındaki denizi ve eşsiz manzarasıyla tanınır.",
+                "image": "/images/oludeniz.jpg"
+            },
+            {
+                "name": "Dalyan",
+                "info": "Dalyan, Muğla'nın Ortaca ilçesinde bulunan doğal güzelliklerle ünlü bir beldedir. Dalyan Nehri, Caretta Caretta kaplumbağaları ve Kral Kaya Mezarları gibi turistik mekanlara ev sahipliği yapar.",
+                "image": "/images/dalyan.jpg"
+            },
+            {
+                "name": "Bodrum Kalesi",
+                "info": "Bodrum Kalesi, Muğla'nın Bodrum ilçesinde bulunan tarihi bir kale. Antik çağlardan beri kullanılmış ve Ege Denizi'ni korumak için yapılmıştır.",
+                "image": "/images/bodrum-kalesi.jpg"
+            },
+            {
+                "name": "Kaunos Antik Kenti",
+                "info": "Kaunos Antik Kenti, Muğla'nın Dalyan ilçesinde bulunan antik bir şehirdir. Kaunos Kral Mezarları ve Dalyan Kanalı gibi tarihi ve doğal özelliklere sahiptir.",
+                "image": "/images/kaunos-antik-kenti.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Muş",
+        "info": "Muş, Türkiye'nin Doğu Anadolu Bölgesi'nde bulunan bir şehirdir. Tarihi ve kültürel zenginlikleriyle ünlüdür.",
+        "image-1": "/images/mus-1.jpg",
+        "image-2": "/images/mus-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Muş Kalesi",
+                "info": "Muş Kalesi, şehrin tarihî ve kültürel simgelerinden biridir. Urartu dönemine ait olan kale, Muş'un tarihi geçmişini yansıtır.",
+                "image": "/images/mus-kalesi.jpg"
+            },
+            {
+                "name": "Muradiye Camii",
+                "info": "Muradiye Camii, 16. yüzyılda inşa edilen önemli bir Osmanlı dönemi eseridir. Mimari yapısı ve süslemeleriyle dikkat çeker.",
+                "image": "/images/muradiye-camii.jpg"
+            },
+            {
+                "name": "Muş Etnografya Müzesi",
+                "info": "Muş Etnografya Müzesi, şehrin kültürel mirasını sergileyen bir müzedir. Geleneksel el sanatları, kıyafetler ve arkeolojik eserleri içerir.",
+                "image": "/images/mus-etnografya-muzesi.jpg"
+            },
+            {
+                "name": "Bulanık Kervansarayı",
+                "info": "Bulanık Kervansarayı, tarihî İpek Yolu üzerinde bulunan önemli bir konaklama ve ticaret merkeziydi. Günümüzde de tarihi dokusunu korumaktadır.",
+                "image": "/images/bulanik-kervansarayi.jpg"
+            },
+            {
+                "name": "Ayanis Kalesi",
+                "info": "Ayanis Kalesi, Muş'un Patnos ilçesinde bulunan antik bir kaledir. Urartu dönemine ait kalıntıları içerir ve tarih meraklıları için ilgi çekicidir.",
+                "image": "/images/ayanis-kalesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Nevşehir",
+        "info": "Nevşehir, Türkiye'nin İç Anadolu Bölgesi'nde bulunan bir şehirdir. Kapadokya bölgesiyle ünlüdür ve benzersiz doğal güzelliklere ev sahipliği yapar.",
+        "image-1": "/images/nevsehir-1.jpg",
+        "image-2": "/images/nevsehir-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Göreme Açık Hava Müzesi",
+                "info": "Göreme Açık Hava Müzesi, Kapadokya'nın en ünlü turistik yerlerinden biridir. Tarihi mağara kiliselerini ve manastırları içerir.",
+                "image": "/images/goreme-acik-hava-muzesi.jpg"
+            },
+            {
+                "name": "Peri Bacaları",
+                "info": "Peri Bacaları, Nevşehir'in doğal oluşumlarından biridir. Volkanik kayaçların rüzgar ve su erozyonuyla oluşturduğu şekillerdir.",
+                "image": "/images/peri-bacalari.jpg"
+            },
+            {
+                "name": "Ürgüp Kalesi",
+                "info": "Ürgüp Kalesi, Nevşehir'in Ürgüp ilçesinde bulunan tarihi bir kaledir. Eski kaya yerleşimlerinin manzarasını sunar.",
+                "image": "/images/urgup-kalesi.jpg"
+            },
+            {
+                "name": "Avanos",
+                "info": "Avanos, Nevşehir'in tarihi ve kültürel açıdan önemli bir ilçesidir. Seramik atölyeleri ve Kızılırmak Nehri manzarasıyla ünlüdür.",
+                "image": "/images/avanos.jpg"
+            },
+            {
+                "name": "Paşabağ Vadisi",
+                "info": "Paşabağ Vadisi, Nevşehir'in Zelve ilçesinde bulunan doğal bir vadidir. Farklı şekillerdeki peri bacalarıyla tanınır.",
+                "image": "/images/pasabag-vadisi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Niğde",
+        "info": "Niğde, Türkiye'nin İç Anadolu Bölgesi'nde bulunan bir şehirdir. Tarihi ve doğal güzellikleriyle ünlüdür.",
+        "image-1": "/images/nigde-1.jpg",
+        "image-2": "/images/nigde-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Aladağlar Milli Parkı",
+                "info": "Aladağlar Milli Parkı, Niğde'nin Aladağ ilçesinde bulunan doğal bir koruma alanıdır. Zengin flora ve fauna çeşitliliğine sahiptir.",
+                "image": "/images/aladaglar-milli-parki.jpg"
+            },
+            {
+                "name": "Niğde Kalesi",
+                "info": "Niğde Kalesi, şehir merkezinde yer alan tarihi bir kale. Selçuklu ve Osmanlı dönemlerine ait kalıntıları içerir.",
+                "image": "/images/nigde-kalesi.jpg"
+            },
+            {
+                "name": "Bor Çamlık Mesire Alanı",
+                "info": "Bor Çamlık Mesire Alanı, Niğde'nin Bor ilçesinde bulunan doğal bir dinlenme alanıdır. Çam ormanları ve piknik alanlarıyla ziyaretçileri ağırlar.",
+                "image": "/images/bor-camlik-mesire-alani.jpg"
+            },
+            {
+                "name": "Niğde Müzesi",
+                "info": "Niğde Müzesi, şehrin tarihini ve kültürel mirasını sergileyen bir müzedir. Arkeolojik eserler, etnografik objeler ve sanat eserlerini içerir.",
+                "image": "/images/nigde-muzesi.jpg"
+            },
+            {
+                "name": "Gümüşler Manastırı",
+                "info": "Gümüşler Manastırı, Niğde'nin Bor ilçesinde bulunan tarihi bir manastırdır. Bizans döneminden kalma freskleriyle tanınır.",
+                "image": "/images/gumusler-manastiri.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Ordu",
+        "info": "Ordu, Türkiye'nin Karadeniz Bölgesi'nde bulunan bir şehirdir. Doğal güzellikleri ve tarihi yerleriyle ünlüdür.",
+        "image-1": "/images/ordu-1.jpg",
+        "image-2": "/images/ordu-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Boztepe",
+                "info": "Boztepe, Ordu'nun şehir merkezine hakim bir tepedir. Buradan şehir manzarasını izlemek mümkündür. Ayrıca çay bahçeleri ve dinlenme alanları bulunur.",
+                "image": "/images/boztepe.jpg"
+            },
+            {
+                "name": "Perşembe Yaylası",
+                "info": "Perşembe Yaylası, Ordu'nun Perşembe ilçesinde bulunan doğal bir yayladır. Doğa yürüyüşleri, kampçılık ve yayla turizmi için popülerdir.",
+                "image": "/images/persembe-yaylasi.jpg"
+            },
+            {
+                "name": "Bolaman Kalesi",
+                "info": "Bolaman Kalesi, Ordu'nun Ünye ilçesinde bulunan tarihi bir kaledir. Karadeniz sahilinde yer alır ve ziyaretçilere tarihi bir yolculuk sunar.",
+                "image": "/images/bolaman-kalesi.jpg"
+            },
+            {
+                "name": "Taşbaşı Manastırı",
+                "info": "Taşbaşı Manastırı, Ordu'nun Ünye ilçesinde bulunan tarihi bir manastırdır. Doğal kayalara oyulmuş yapı, mimari açıdan ilgi çekicidir.",
+                "image": "/images/tasbasi-manastiri.jpg"
+            },
+            {
+                "name": "Boztepe Teleferik",
+                "info": "Boztepe Teleferik, Ordu şehir merkezinden Boztepe'ye ulaşımı sağlayan bir teleferik hattıdır. Manzara keyfi için popüler bir seçenektir.",
+                "image": "/images/ordu-teleferik.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Osmaniye",
+        "info": "Osmaniye, Türkiye'nin Akdeniz Bölgesi'nde bulunan bir şehirdir. Tarihi ve doğal güzellikleriyle dikkat çeker.",
+        "image-1": "/images/osmaniye-1.jpg",
+        "image-2": "/images/osmaniye-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Karatepe-Aslantaş Açık Hava Müzesi",
+                "info": "Karatepe-Aslantaş Açık Hava Müzesi, Osmaniye'nin Kadirli ilçesinde bulunan bir arkeolojik alan ve müzedir. Hitit dönemine ait kalıntıları içerir.",
+                "image": "/images/karatepe-aslantas-acik-hava-muzesi.jpg"
+            },
+            {
+                "name": "Toprakkale",
+                "info": "Toprakkale, Osmaniye'nin merkezinde bulunan tarihi bir kale. Hitit döneminden kalma bu kale, şehrin tarihini yansıtır.",
+                "image": "/images/toprakkale.jpg"
+            },
+            {
+                "name": "Aslantaş Açık Hava Tapınağı",
+                "info": "Aslantaş Açık Hava Tapınağı, Osmaniye'nin Kadirli ilçesinde bulunan bir antik tapınaktır. Hitit dönemine aittir ve dini ritüeller için kullanılmıştır.",
+                "image": "/images/aslantas-acik-hava-tapinagi.jpg"
+            },
+            {
+                "name": "Osmaniye Kent Müzesi",
+                "info": "Osmaniye Kent Müzesi, şehrin tarihini ve kültürel mirasını sergileyen bir müzedir. Arkeolojik eserler, etnografik objeler ve sanat eserlerini içerir.",
+                "image": "/images/osmaniye-kent-muzesi.jpg"
+            },
+            {
+                "name": "Ceyhan Nehri",
+                "info": "Ceyhan Nehri, Osmaniye'nin doğal güzelliklerinden biridir. Nehir kenarında piknik yapmak ve doğa yürüyüşleri yapmak için popüler bir destinasyondur.",
+                "image": "/images/ceyhan-nehri.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Rize",
+        "info": "Rize, Türkiye'nin Karadeniz Bölgesi'nde bulunan bir şehirdir. Doğal güzellikleri ve çay tarlalarıyla ünlüdür.",
+        "image-1": "/images/rize-1.jpg",
+        "image-2": "/images/rize-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Ayder Yaylası",
+                "info": "Ayder Yaylası, Rize'nin Çamlıhemşin ilçesinde bulunan doğal bir yayladır. Doğa yürüyüşleri, termal kaynakları ve yayla turizmi için popülerdir.",
+                "image": "/images/ayder-yaylasi.jpg"
+            },
+            {
+                "name": "Zilkale",
+                "info": "Zilkale, Rize'nin Çamlıhemşin ilçesinde bulunan tarihi bir kaledir. Fırtına Deresi vadisinde yer alır ve Orta Çağ'dan kalma bir savunma yapısıdır.",
+                "image": "/images/zilkale.jpg"
+            },
+            {
+                "name": "Rize Kalesi",
+                "info": "Rize Kalesi, şehrin tarihi ve kültürel simgelerinden biridir. Karadeniz sahilinde yer alır ve şehrin panoramik manzarasını sunar.",
+                "image": "/images/rize-kalesi.jpg"
+            },
+            {
+                "name": "Fırtına Deresi Vadisi",
+                "info": "Fırtına Deresi Vadisi, Rize'nin doğal güzelliklerinden biridir. Yemyeşil doğası, akan dereleri ve tarihi köprüleriyle ünlüdür.",
+                "image": "/images/firtina-deresi-vadisi.jpg"
+            },
+            {
+                "name": "Rize Çay Fabrikası",
+                "info": "Rize Çay Fabrikası, şehrin önemli bir simgesidir. Çay tarlalarından toplanan yaprakların işlenmesini gözlemleyebileceğiniz bir yerdir.",
+                "image": "/images/rize-cay-fabrikasi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Sakarya",
+        "info": "Sakarya, Türkiye'nin Marmara Bölgesi'nde bulunan bir şehirdir. Tarihi ve doğal güzellikleriyle dikkat çeker.",
+        "image-1": "/images/sakarya-1.jpg",
+        "image-2": "/images/sakarya-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Sapanca Gölü",
+                "info": "Sapanca Gölü, Sakarya'nın doğal güzelliklerinden biridir. Şehir merkezine yakın bir konumda yer alır ve piknik, doğa yürüyüşü ve su sporları için idealdir.",
+                "image": "/images/sapanca-golu.jpg"
+            },
+            {
+                "name": "Taraklı",
+                "info": "Taraklı, Sakarya'nın tarihi bir ilçesidir. Osmanlı dönemine ait evleri, tarihi camileri ve sokaklarıyla ünlüdür.",
+                "image": "/images/tarakli.jpg"
+            },
+            {
+                "name": "Sakarya Müzesi",
+                "info": "Sakarya Müzesi, şehrin tarihini ve kültürel mirasını sergileyen bir müzedir. Arkeolojik eserler, etnografik objeler ve sanat eserlerini içerir.",
+                "image": "/images/sakarya-muzesi.jpg"
+            },
+            {
+                "name": "Kentpark",
+                "info": "Kentpark, Sakarya'nın merkezinde bulunan büyük bir parktır. Yeşil alanları, çocuk oyun alanları ve yürüyüş yollarıyla şehir sakinlerine dinlenme imkanı sunar.",
+                "image": "/images/kentpark.jpg"
+            },
+            {
+                "name": "Karasu Sahili",
+                "info": "Karasu Sahili, Sakarya'nın Karasu ilçesinde bulunan bir plajdır. Temiz denizi ve kumsalıyla yaz aylarında ziyaretçi akınına uğrar.",
+                "image": "/images/karasu-sahili.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Samsun",
+        "info": "Samsun, Türkiye'nin Karadeniz Bölgesi'nde bulunan bir şehirdir. Tarihi ve doğal güzellikleriyle dikkat çeker.",
+        "image-1": "/images/samsun-1.jpg",
+        "image-2": "/images/samsun-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Amisos Tepesi",
+                "info": "Amisos Tepesi, Samsun'un tarihî ve turistik öneme sahip bir yeridir. Eski Samsun manzarası ve Karadeniz sahiline hakim bir konumdadır.",
+                "image": "/images/amisos-tepesi.jpg"
+            },
+            {
+                "name": "Bandırma Vapuru Müzesi",
+                "info": "Bandırma Vapuru Müzesi, Türkiye Cumhuriyeti'nin kuruluşuna önemli bir rol oynayan Bandırma Vapuru'nun sergilendiği bir müzedir.",
+                "image": "/images/bandirma-vapuru-muzesi.jpg"
+            },
+            {
+                "name": "Gazi Müzesi",
+                "info": "Gazi Müzesi, Samsun'da Türk Kurtuluş Savaşı'nın başlangıç noktası olan Amasya'dan Samsun'a gelerek milli mücadeleyi başlatan Mustafa Kemal Atatürk'e adanmış bir müzedir.",
+                "image": "/images/gazi-muzesi.jpg"
+            },
+            {
+                "name": "Pazar Camii",
+                "info": "Pazar Camii, Samsun'un tarihi ve mimari açıdan önemli bir yapısıdır. Osmanlı dönemi eserlerinden biri olarak bilinir.",
+                "image": "/images/pazar-camii.jpg"
+            },
+            {
+                "name": "Amazon Heykeli",
+                "info": "Amazon Heykeli, Samsun şehir merkezinde yer alan ve efsanevi Amazon kadın savaşçılarını temsil eden bir heykeldir. Samsun'un sembolü haline gelmiştir.",
+                "image": "/images/amazon-heykeli.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Siirt",
+        "info": "Siirt, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde bulunan bir şehirdir. Tarihi ve kültürel zenginliğiyle bilinir.",
+        "image-1": "/images/siirt-1.jpg",
+        "image-2": "/images/siirt-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Botan Çayı Kanyonu",
+                "info": "Botan Çayı Kanyonu, Siirt'in doğal güzelliklerinden biridir. Yüksek kayalıklar ve yeşillikler arasında doğa yürüyüşleri ve fotoğrafçılık için idealdir.",
+                "image": "/images/botan-cayi-kanyonu.jpg"
+            },
+            {
+                "name": "Ulucami",
+                "info": "Ulucami, Siirt'in merkezinde bulunan tarihi bir camidir. Osmanlı dönemine aittir ve şehrin en eski camilerinden biridir.",
+                "image": "/images/ulucami.jpg"
+            },
+            {
+                "name": "Karaçavuş Türbeleri",
+                "info": "Karaçavuş Türbeleri, Siirt'in tarihi ve dini yapılarından biridir. Birçok türbenin bulunduğu bu alan, ziyaretçilere tarihi bir atmosfer sunar.",
+                "image": "/images/karacavus-turbeleri.jpg"
+            },
+            {
+                "name": "Tillo Kalesi",
+                "info": "Tillo Kalesi, Siirt'in Tillo ilçesinde bulunan tarihi bir kaledir. İslam ve Selçuklu mimarisinin etkileyici örneklerinden biridir.",
+                "image": "/images/tillo-kalesi.jpg"
+            },
+            {
+                "name": "Bediüzzaman Said Nursi Evi",
+                "info": "Bediüzzaman Said Nursi Evi, Siirt'te ünlü Müslüman alim ve yazar Bediüzzaman Said Nursi'nin evi ve müzesidir. Ziyaretçilere tarihi bir yolculuk sunar.",
+                "image": "/images/said-nursi-evi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Sinop",
+        "info": "Sinop, Türkiye'nin Karadeniz Bölgesi'nde bulunan bir şehirdir. Tarihi kaleleri ve sahil şeridiyle ünlüdür.",
+        "image-1": "/images/sinop-1.jpg",
+        "image-2": "/images/sinop-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Sinop Kalesi",
+                "info": "Sinop Kalesi, şehrin tarihi sembollerinden biridir. Antik çağlardan günümüze kadar birçok medeniyetin izlerini taşır.",
+                "image": "/images/sinop-kalesi.jpg"
+            },
+            {
+                "name": "Tarihi Cezaevi",
+                "info": "Tarihi Cezaevi, Sinop'ta bulunan önemli bir tarihi yapıdır. Osmanlı döneminden kalma olan bu cezaevi, günümüzde müze olarak ziyaret edilebilir.",
+                "image": "/images/sinop-tarihi-cezaevi.jpg"
+            },
+            {
+                "name": "Hamsilos Koyu",
+                "info": "Hamsilos Koyu, Sinop'un doğal güzelliklerinden biridir. Karadeniz'in en batıdaki fiyordu olarak bilinen bu koy, eşsiz manzaralar sunar.",
+                "image": "/images/hamsilos-koyu.jpg"
+            },
+            {
+                "name": "Sinop Arkeoloji Müzesi",
+                "info": "Sinop Arkeoloji Müzesi, şehrin tarihini ve arkeolojik mirasını sergileyen bir müzedir. Antik döneme ait eserlerin yanı sıra daha yakın tarihli objeleri de barındırır.",
+                "image": "/images/sinop-arkeoloji-muzesi.jpg"
+            },
+            {
+                "name": "Erfelek Tatlıca Şelaleleri",
+                "info": "Erfelek Tatlıca Şelaleleri, Sinop'un doğal güzelliklerinden biridir. Ormanlar arasında yer alan bu şelaleler, yılın her dönemi ziyaretçilerini cezbeder.",
+                "image": "/images/erfelek-tatlica-selaleleri.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Sivas",
+        "info": "Sivas, Türkiye'nin İç Anadolu Bölgesi'nde bulunan bir şehirdir. Tarihi yapıları ve doğal güzellikleriyle ünlüdür.",
+        "image-1": "/images/sivas-1.jpg",
+        "image-2": "/images/sivas-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Divriği Ulu Camii ve Darüşşifası",
+                "info": "Divriği Ulu Camii ve Darüşşifası, UNESCO Dünya Mirası Listesi'nde yer alan önemli bir tarihi yapıdır. Selçuklu dönemi mimarisinin en güzel örneklerinden biridir.",
+                "image": "/images/divrigi-ulu-camii.jpg"
+            },
+            {
+                "name": "Gökpınar Gölü",
+                "info": "Gökpınar Gölü, Sivas'ın doğal güzelliklerinden biridir. Ormanlarla çevrili bu göl, doğa yürüyüşleri ve piknik için popüler bir destinasyondur.",
+                "image": "/images/gokpinar-golu.jpg"
+            },
+            {
+                "name": "Sivas Kongresi Müzesi",
+                "info": "Sivas Kongresi Müzesi, şehrin tarihini ve milli mücadeleyi anlatan bir müzedir. 19. yüzyılda yapılmış tarihi bir konakta bulunur.",
+                "image": "/images/sivas-kongresi-muzesi.jpg"
+            },
+            {
+                "name": "Sivas Kalesi",
+                "info": "Sivas Kalesi, şehrin tarihi sembollerinden biridir. Ortaçağ'da inşa edilmiş olan bu kale, şehrin manzarasını izlemek için ideal bir noktadır.",
+                "image": "/images/sivas-kalesi.jpg"
+            },
+            {
+                "name": "Sülüklü Göl",
+                "info": "Sülüklü Göl, Sivas'ın doğal güzelliklerinden biridir. Volkanik bir krater gölü olan Sülüklü Göl, çevresindeki manzarasıyla ziyaretçilerini etkiler.",
+                "image": "/images/suluksu-golu.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Şanlıurfa",
+        "info": "Şanlıurfa, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde bulunan tarihi ve kültürel zenginliklere sahip bir şehirdir.",
+        "image-1": "/images/sanliurfa-1.jpg",
+        "image-2": "/images/sanliurfa-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Göbekli Tepe",
+                "info": "Göbekli Tepe, Şanlıurfa'nın yakınında bulunan dünyanın en eski tapınak komplekslerinden biridir. UNESCO Dünya Mirası Listesi'nde yer almaktadır.",
+                "image": "/images/gobekli-tepe.jpg"
+            },
+            {
+                "name": "Balıklıgöl",
+                "info": "Balıklıgöl, Şanlıurfa'nın merkezinde yer alan dini bir mekandır. Peygamber İbrahim'in ateşe atıldığı yer olarak kabul edilir.",
+                "image": "/images/balikligol.jpg"
+            },
+            {
+                "name": "Harran",
+                "info": "Harran, Şanlıurfa'nın tarihi ilçelerinden biridir. Antik çağlardan kalma konik yapıları ile ünlüdür.",
+                "image": "/images/harran.jpg"
+            },
+            {
+                "name": "Rızvaniye Camii",
+                "info": "Rızvaniye Camii, Şanlıurfa'nın tarihi camilerinden biridir. Osmanlı dönemine ait olan bu cami, mimarisiyle dikkat çeker.",
+                "image": "/images/rizvaniye-camii.jpg"
+            },
+            {
+                "name": "Halfeti",
+                "info": "Halfeti, Fırat Nehri'nin kenarında yer alan bir ilçedir. Sular altında kalan eski Halfeti köyü, tarihi ve doğal güzellikleriyle ünlüdür.",
+                "image": "/images/halfeti.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Şırnak",
+        "info": "Şırnak, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde yer alan bir şehirdir. Doğal güzellikleri ve tarihi dokusuyla dikkat çeker.",
+        "image-1": "/images/sirnak-1.jpg",
+        "image-2": "/images/sirnak-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Cudi Dağı",
+                "info": "Cudi Dağı, Şırnak'ın doğal güzelliklerinden biridir. Zirvesi, efsanelere ve mitlere konu olmuş bir dağdır.",
+                "image": "/images/cudi-dagi.jpg"
+            },
+            {
+                "name": "Şırnak Kalesi",
+                "info": "Şırnak Kalesi, şehrin tarihi sembollerinden biridir. M.Ö. 8. yüzyıla kadar uzanan köklü bir tarihe sahiptir.",
+                "image": "/images/sirnak-kalesi.jpg"
+            },
+            {
+                "name": "Süleyman Han Camii",
+                "info": "Süleyman Han Camii, Şırnak'ın tarihi camilerinden biridir. Osmanlı dönemine ait olan bu cami, bölgenin önemli bir dini yapılarından biridir.",
+                "image": "/images/suleyman-han-camii.jpg"
+            },
+            {
+                "name": "Şırnak Eski Şehir",
+                "info": "Şırnak Eski Şehir, şehrin tarihi dokusunu yansıtan bir bölgedir. Dar sokakları ve geleneksel yapılarıyla dikkat çeker.",
+                "image": "/images/sirnak-eski-sehir.jpg"
+            },
+            {
+                "name": "Cizre Botan Çayı",
+                "info": "Cizre Botan Çayı, Şırnak'ın doğal güzelliklerinden biridir. Çay kenarında yürüyüş yapmak ve dinlenmek için idealdir.",
+                "image": "/images/cizre-botan-cayi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Tekirdağ",
+        "info": "Tekirdağ, Türkiye'nin Marmara Bölgesi'nde yer alan bir şehirdir. Tarih, doğa ve lezzet turizmi açısından zengin bir bölgedir.",
+        "image-1": "/images/tekirdag-1.jpg",
+        "image-2": "/images/tekirdag-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Namık Kemal Evi Müzesi",
+                "info": "Namık Kemal Evi Müzesi, Türk edebiyatının önemli isimlerinden Namık Kemal'in doğduğu evdir. Şairin eserlerini ve yaşamını tanıtan bir müzedir.",
+                "image": "/images/namik-kemal-evi-muzesi.jpg"
+            },
+            {
+                "name": "Rakoczi Müzesi",
+                "info": "Rakoczi Müzesi, Macar bağımsızlık mücadelesinin lideri II. Rakoczi Ferenc'in Türkiye'deki sürgün yaşamını konu alan bir müzedir.",
+                "image": "/images/rakoczi-muzesi.jpg"
+            },
+            {
+                "name": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+                "info": "Tekirdağ Arkeoloji ve Etnografya Müzesi, şehrin tarihini ve kültürel mirasını sergileyen bir müzedir. Arkeolojik eserler ve etnografik objelerin yanı sıra yerel tarih ve kültüre dair bilgiler de bulunmaktadır.",
+                "image": "/images/tekirdag-arkeoloji-etnografya-muzesi.jpg"
+            },
+            {
+                "name": "Saraylı Köyü ve Şarap Üzüm Bağları",
+                "info": "Saraylı Köyü, Tekirdağ'ın şarap üretiminde önemli bir yere sahiptir. Köydeki şarap üzüm bağları ve şarap üretim tesisleri ziyaretçilere eşsiz bir deneyim sunar.",
+                "image": "/images/sarayli-koyu-ve-sarap-uzum-baglari.jpg"
+            },
+            {
+                "name": "Şarköy Sahil Bandı",
+                "info": "Şarköy Sahil Bandı, Tekirdağ'ın sahil şeridinde yer alan popüler bir dinlenme ve eğlence bölgesidir. Plajları ve restoranlarıyla ziyaretçilerin ilgisini çeker.",
+                "image": "/images/sarkoy-sahil-bandi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Tokat",
+        "info": "Tokat, Türkiye'nin Karadeniz Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir.",
+        "image-1": "/images/tokat-1.jpg",
+        "image-2": "/images/tokat-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Tokat Kalesi",
+                "info": "Tokat Kalesi, şehrin simgelerinden biridir. Tarihi boyunca birçok medeniyetin izlerini taşır ve muhteşem bir şehir manzarasına sahiptir.",
+                "image": "/images/tokat-kalesi.jpg"
+            },
+            {
+                "name": "Niksar Ulu Camii",
+                "info": "Niksar Ulu Camii, Tokat'ın tarihi camilerinden biridir. Selçuklu ve Osmanlı mimarisinin özelliklerini taşır ve dini yapılara ilgi duyanlar için önemli bir ziyaret noktasıdır.",
+                "image": "/images/niksar-ulu-camii.jpg"
+            },
+            {
+                "name": "Almus Baraj Gölü",
+                "info": "Almus Baraj Gölü, Tokat'ın doğal güzelliklerinden biridir. Göl kenarında piknik yapmak, balık tutmak ve doğa yürüyüşleri yapmak için ideal bir yerdir.",
+                "image": "/images/almus-baraj-golu.jpg"
+            },
+            {
+                "name": "Ballıca Mağarası",
+                "info": "Ballıca Mağarası, Tokat'ın önemli doğal turizm destinasyonlarından biridir. Mağara içinde yer alan göl ve sarkıt-sütunlar ziyaretçileri etkiler.",
+                "image": "/images/ballica-magarasi.jpg"
+            },
+            {
+                "name": "Tokat Müzesi",
+                "info": "Tokat Müzesi, şehrin tarihini ve kültürel mirasını sergileyen bir müzedir. Arkeolojik eserler, etnografik objeler ve Osmanlı dönemine ait eserler müzede bulunmaktadır.",
+                "image": "/images/tokat-muzesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Trabzon",
+        "info": "Trabzon, Türkiye'nin Karadeniz Bölgesi'nde bulunan tarihi ve doğal güzellikleriyle ünlü bir şehirdir.",
+        "image-1": "/images/trabzon-1.jpg",
+        "image-2": "/images/trabzon-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Hagia Sophia Müzesi",
+                "info": "Hagia Sophia Müzesi, Trabzon'un önemli tarihi yapılarından biridir. Bizans dönemine ait olan bu kilise, günümüzde müze olarak hizmet vermektedir.",
+                "image": "/images/hagia-sophia-muzesi.jpg"
+            },
+            {
+                "name": "Uzungöl",
+                "info": "Uzungöl, Trabzon'un doğal güzelliklerinden biridir. Yemyeşil dağlar arasında yer alan bu krater gölü, ziyaretçilere eşsiz manzaralar sunar.",
+                "image": "/images/uzungol.jpg"
+            },
+            {
+                "name": "Sumela Manastırı",
+                "info": "Sumela Manastırı, Trabzon'un simgelerinden biridir. Kayalıkların üzerine kurulmuş olan bu manastır, Bizans döneminden kalma önemli bir dini yapıdır.",
+                "image": "/images/sumela-manastiri.jpg"
+            },
+            {
+                "name": "Atatürk Köşkü",
+                "info": "Atatürk Köşkü, Trabzon'da bulunan önemli bir tarihi yapıdır. Mustafa Kemal Atatürk'ün bir dönem konakladığı bu köşk, günümüzde müze olarak ziyaret edilmektedir.",
+                "image": "/images/ataturk-kosku.jpg"
+            },
+            {
+                "name": "Boztepe",
+                "info": "Boztepe, Trabzon'un panoramik manzarasını en iyi şekilde görebileceğiniz noktalardan biridir. Şehir merkezine yüksekten bakan bu tepe, fotoğraf tutkunları için ideal bir noktadır.",
+                "image": "/images/boztepe.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Tunceli",
+        "info": "Tunceli, Türkiye'nin Doğu Anadolu Bölgesi'nde bulunan tarihi ve doğal güzellikleriyle ünlü bir şehirdir.",
+        "image-1": "/images/tunceli-1.jpg",
+        "image-2": "/images/tunceli-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Munzur Vadisi Milli Parkı",
+                "info": "Munzur Vadisi Milli Parkı, Tunceli'nin doğal güzelliklerinden biridir. Munzur Dağları'nın eteklerinde bulunan bu milli park, trekking ve doğa yürüyüşleri için idealdir.",
+                "image": "/images/munzur-vadisi-milli-parki.jpg"
+            },
+            {
+                "name": "Pülümür Vadisi",
+                "info": "Pülümür Vadisi, Tunceli'nin doğal güzelliklerinden biridir. Yeşilin ve mavinin muhteşem uyumunu sunan bu vadi, doğa severler için vazgeçilmez bir destinasyondur.",
+                "image": "/images/pulumur-vadisi.jpg"
+            },
+            {
+                "name": "Kemaliye (Eğin)",
+                "info": "Kemaliye, Tunceli'nin tarihi ilçelerinden biridir. Fırat Nehri kıyısında yer alan bu ilçe, tarihi evleri ve doğal güzellikleriyle ünlüdür.",
+                "image": "/images/kemaliye.jpg"
+            },
+            {
+                "name": "Çamiçi Yaylası",
+                "info": "Çamiçi Yaylası, Tunceli'nin doğal güzelliklerinden biridir. Yemyeşil ormanları ve temiz havasıyla ziyaretçilere huzurlu bir ortam sunar.",
+                "image": "/images/camici-yaylasi.jpg"
+            },
+            {
+                "name": "Geyiksuyu Tabiat Parkı",
+                "info": "Geyiksuyu Tabiat Parkı, Tunceli'nin doğal güzelliklerinden biridir. Piknik alanları, yürüyüş parkurları ve göletleriyle ziyaretçilere keyifli bir gün geçirme imkanı sunar.",
+                "image": "/images/geyiksuyu-tabiat-parki.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Uşak",
+        "info": "Uşak, Türkiye'nin Ege Bölgesi'nde yer alan kültürel ve tarihi mirasıyla ön plana çıkan bir şehirdir.",
+        "image-1": "/images/usak-1.jpg",
+        "image-2": "/images/usak-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Uşak Arkeoloji Müzesi",
+                "info": "Uşak Arkeoloji Müzesi, şehrin tarihini ve kültürel mirasını sergileyen önemli bir müzedir. Arkeolojik eserler ve tarihi objelerin yanı sıra etnografik koleksiyonlar da bulunmaktadır.",
+                "image": "/images/usak-arkeoloji-muzesi.jpg"
+            },
+            {
+                "name": "Aizanoi Antik Kenti",
+                "info": "Aizanoi Antik Kenti, Uşak'ın tarihi ve arkeolojik açıdan önemli yerlerinden biridir. Roma dönemine ait tapınaklar, tiyatro ve stadyum gibi kalıntıları içerir.",
+                "image": "/images/aizanoi-antik-kenti.jpg"
+            },
+            {
+                "name": "Karun Hazineleri Müzesi",
+                "info": "Karun Hazineleri Müzesi, antik döneme ait önemli eserlerin sergilendiği bir müzedir. Karun'un define olarak bilinen altın ve gümüş eserler burada sergilenmektedir.",
+                "image": "/images/karun-hazineleri-muzesi.jpg"
+            },
+            {
+                "name": "Banaz Göleti",
+                "info": "Banaz Göleti, doğal güzellikleri ve rekreasyon alanlarıyla bilinen bir gölettir. Piknik yapmak, doğa yürüyüşleri yapmak ve kuş gözlemi yapmak için ideal bir mekandır.",
+                "image": "/images/banaz-goleti.jpg"
+            },
+            {
+                "name": "Ulubey Kanyonu",
+                "info": "Ulubey Kanyonu, Uşak'ın doğal güzelliklerinden biridir. Derin vadileri, akarsuları ve yeşil doğasıyla ziyaretçilere benzersiz bir doğa deneyimi sunar.",
+                "image": "/images/ulubey-kanyonu.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Van",
+        "info": "Van, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan tarihi ve kültürel açıdan zengin bir şehirdir.",
+        "image-1": "/images/van-1.jpg",
+        "image-2": "/images/van-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Van Kalesi",
+                "info": "Van Kalesi, şehrin en önemli simgelerinden biridir. Tarihi boyunca Urartular, Persler, Romalılar ve Osmanlılar gibi birçok medeniyete ev sahipliği yapmıştır.",
+                "image": "/images/van-kalesi.jpg"
+            },
+            {
+                "name": "Akdamar Adası ve Kilisesi",
+                "info": "Akdamar Adası, Van Gölü'nde bulunan ve tarihi Akdamar Kilisesi ile ünlü bir adadır. Kilise, Urartu döneminden kalma freskleriyle dikkat çeker.",
+                "image": "/images/akdamar-adasi-ve-kilisesi.jpg"
+            },
+            {
+                "name": "Van Gölü",
+                "info": "Van Gölü, Türkiye'nin en büyük gölüdür. Eşsiz doğal güzellikleri ve çevresindeki tarihi ve kültürel mirasıyla ziyaretçilerin ilgisini çeker.",
+                "image": "/images/van-golu.jpg"
+            },
+            {
+                "name": "Van Kedi Evleri",
+                "info": "Van Kedi Evleri, şehrin en sevimli simgelerinden biridir. Beyaz tüylü Van kedileri, dünyaca ünlüdür ve şehirdeki birçok yerde görebilirsiniz.",
+                "image": "/images/van-kedi-evleri.jpg"
+            },
+            {
+                "name": "Hoşap Kalesi",
+                "info": "Hoşap Kalesi, Van'ın tarihi kalelerinden biridir. Urartular dönemine ait olan kale, etkileyici mimarisiyle ziyaretçileri büyüler.",
+                "image": "/images/hosap-kalesi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Yalova",
+        "info": "Yalova, Türkiye'nin Marmara Bölgesi'nde yer alan termal kaynakları, doğal güzellikleri ve tarihi zenginlikleriyle ünlü bir şehirdir.",
+        "image-1": "/images/yalova-1.jpg",
+        "image-2": "/images/yalova-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Termal Kaplıcalar",
+                "info": "Yalova, Türkiye'nin önemli termal turizm merkezlerinden biridir. Şehirde birçok termal kaplıca bulunur ve ziyaretçilere sağlık ve dinlenme imkanı sunar.",
+                "image": "/images/yalova-termal-kaplicalar.jpg"
+            },
+            {
+                "name": "Suadiye Plajı",
+                "info": "Suadiye Plajı, Yalova'nın en popüler plajlarından biridir. Temiz denizi ve kumsalıyla yaz aylarında ziyaretçilerin tercih ettiği bir dinlenme ve eğlence mekanıdır.",
+                "image": "/images/suadiye-plaji.jpg"
+            },
+            {
+                "name": "Yürüyen Köşk",
+                "info": "Yürüyen Köşk, Yalova'nın simgelerinden biridir. Atatürk'ün yaptırdığı ve kullandığı bu köşk, zaman içinde birkaç kez taşınmıştır ve hala ziyaretçilere açıktır.",
+                "image": "/images/yuruyen-kosk.jpg"
+            },
+            {
+                "name": "Eski Kaplıca Hamamı",
+                "info": "Eski Kaplıca Hamamı, Osmanlı dönemine ait önemli bir tarihi eserdir. Yalova'nın termal turizm geçmişine tanıklık eden bu hamam, günümüzde restore edilmiş olarak ziyaret edilebilir.",
+                "image": "/images/eski-kaplica-hamami.jpg"
+            },
+            {
+                "name": "Atatürk Anıtı ve Parkı",
+                "info": "Atatürk Anıtı ve Parkı, şehrin merkezinde bulunan önemli bir dinlenme ve rekreasyon alanıdır. Atatürk'ün anısına yapılan bu anıt, ziyaretçilerin ilgisini çeker.",
+                "image": "/images/ataturk-aniti-ve-parki.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Yozgat",
+        "info": "Yozgat, Türkiye'nin İç Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir.",
+        "image-1": "/images/yozgat-1.jpg",
+        "image-2": "/images/yozgat-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Yozgat Müzesi",
+                "info": "Yozgat Müzesi, şehrin tarihini ve kültürel mirasını sergileyen önemli bir müzedir. Arkeolojik eserler, etnografik objeler ve tarihi belgeler burada sergilenmektedir.",
+                "image": "/images/yozgat-muzesi.jpg"
+            },
+            {
+                "name": "Sarıkaya Roma Hamamı",
+                "info": "Sarıkaya Roma Hamamı, Yozgat'ın tarihi yapılarından biridir. Roma dönemine ait olan bu hamam, şehrin tarihi ve arkeolojik zenginliklerinden biridir.",
+                "image": "/images/sarikaya-roma-hamami.jpg"
+            },
+            {
+                "name": "Çamlık Milli Parkı",
+                "info": "Çamlık Milli Parkı, doğal güzellikleri ve rekreasyon alanlarıyla bilinen bir milli parktır. Piknik yapmak, doğa yürüyüşleri yapmak ve kamp kurmak için ideal bir mekandır.",
+                "image": "/images/camlik-milli-parki.jpg"
+            },
+            {
+                "name": "Akdağmadeni Kaya Mezarları",
+                "info": "Akdağmadeni Kaya Mezarları, Yozgat'ın önemli arkeolojik alanlarından biridir. Hititler döneminden kalma olan bu kaya mezarları, tarih ve arkeoloji meraklılarının ilgisini çeker.",
+                "image": "/images/akdagmadeni-kaya-mezarlari.jpg"
+            },
+            {
+                "name": "Ali Paşa Çiftliği",
+                "info": "Ali Paşa Çiftliği, Yozgat'ın önemli tarihi yapılarından biridir. Osmanlı dönemine ait olan bu çiftlik, restore edilmiş olarak ziyaret edilebilir.",
+                "image": "/images/ali-pasa-ciftligi.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Zonguldak",
+        "info": "Zonguldak, Türkiye'nin Karadeniz Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Aynı zamanda Türkiye'nin kömür üretiminin önemli merkezlerinden biridir.",
+        "image-1": "/images/zonguldak-1.jpg",
+        "image-2": "/images/zonguldak-2.jpg",
+        "gorulecek": [
+            {
+                "name": "Gökçebey Kanyonu",
+                "info": "Gökçebey Kanyonu, Zonguldak'ın doğal güzelliklerinden biridir. Derin vadileri ve yeşil doğasıyla ziyaretçilere eşsiz bir doğa deneyimi sunar.",
+                "image": "/images/gokcebey-kanyonu.jpg"
+            },
+            {
+                "name": "Ereğli Müzesi",
+                "info": "Ereğli Müzesi, şehrin tarihini ve kültürel mirasını sergileyen önemli bir müzedir. Arkeolojik eserler, etnografik objeler ve kömür endüstrisine dair belgeler burada sergilenmektedir.",
+                "image": "/images/eregli-muzesi.jpg"
+            },
+            {
+                "name": "Kapuz Plajı",
+                "info": "Kapuz Plajı, Zonguldak'ın önemli plajlarından biridir. Temiz denizi ve kumsalıyla yaz aylarında ziyaretçilerin tercih ettiği bir dinlenme ve eğlence mekanıdır.",
+                "image": "/images/kapuz-plaji.jpg"
+            },
+            {
+                "name": "Gökgöl Mağarası",
+                "info": "Gökgöl Mağarası, Zonguldak'ın doğal güzelliklerinden biridir. İçerisinde yer alan gölü ve muhteşem doğasıyla keşfedilmeyi bekleyen bir mağaradır.",
+                "image": "/images/gokgol-magarasi.jpg"
+            },
+            {
+                "name": "Devrek Yaylası",
+                "info": "Devrek Yaylası, Zonguldak'ın doğal güzelliklerinden biridir. Yemyeşil ormanları ve temiz havasıyla ziyaretçilere huzurlu bir ortam sunar.",
+                "image": "/images/devrek-yaylasi.jpg"
+            }
+        ]
+    }
+]
